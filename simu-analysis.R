@@ -35,7 +35,7 @@ sim_df_loss_total = readRDS("~/GitHub/fate-model-manuscript/out/sim_df_loss_tota
 df.flow = readRDS("~/GitHub/fate-model-manuscript/out/df.flow.rds")
 stoch.params = readRDS("~/GitHub/fate-model-manuscript/out/stoch.params.rds")
   
-#========== LOAD INFOWORKS FLOW DATA FILE ================================
+#========== LOAD WW POLYGON FILES ================================
 message('Loading data...')
 iw.polygon = read.csv('data/iw.polygon.csv')
 iw.wwtp    = read.csv('data/iw.wwtp.csv')
