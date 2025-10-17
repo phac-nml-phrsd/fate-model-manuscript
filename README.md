@@ -59,7 +59,13 @@ To run this script, first execute `simu-analysis.R`.
 
 ## Install from Github
 
-`git clone https://github.com/phac-nml-phrsd/fate-model-manuscript`
+`git clone https://github.com/phac-nml-phrsd/fate-model-manuscript`\
+
+## Data to execute the code 
+
+Place these files in `data` folder:  - shapefiles folder - census_English_CSV_data.csv - City Of Winnipeg Treatment Plant TSS Data.xlsx - demo_dwf_path_states (weekday).csv - iw.polygon.csv - iw.wwtp.csv
+
+Place these files in `out` folder:  - df.polygons.rds - sim_df_loss_solid.rds - sim_df_loss_total.rds - stoch.params.rds
 
 ## Recreate the exact library
 
