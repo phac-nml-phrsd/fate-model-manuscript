@@ -14,7 +14,8 @@ suppressMessages({
 source('utils/utils_plot.R')
 source('utils/utils_figures.R')
 
-
+start <- Sys.time()
+message('Start creating figures.')
 # ===== FIGURES MANUSCRIPT ======
 # Main text
 
@@ -52,11 +53,11 @@ plot_settling_pipe(sim_df_loss_solid,df_labels,
 plot_settling_path(sim_df_loss_solid,loss.type = 'settling raw', df_labels,
     filename = 'figs/appendix_settling_path.pdf')
 
-figure_travel_time(df.flow,
-                   filename = 'figs/figure_travel_time.png')
+#figure_travel_time(df.flow,
+#                   filename = 'figs/figure_travel_time.png')
 
-figure_shear_stress_pipe(df.flow,
-                    filename = 'figs/figure_shear_stress.png')
+#figure_shear_stress_pipe(df.flow,
+#                    filename = 'figs/figure_shear_stress.png')
 
 # by fraction
 figure_map_loss_fsa_fraction(sim.df.pop.loss, 
@@ -87,3 +88,7 @@ figure_sensitivity_bar_plots(sim.df.inf.rate,
                              filename = 'figs/figure_sensitivity_barplots.png')
 
 
+message('Figures are all created.')
+end <- Sys.time()
+
+cat("Total runtime:", round(difftime(end, start, units = "secs"), 2), "seconds\n")

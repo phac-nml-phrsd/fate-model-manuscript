@@ -23,6 +23,7 @@ source('utils/utils.R')
 source('utils/utils_param_stochastic.R')
 source('utils/utils_simulation_stochastic.R')
 
+start <- Sys.time()
 #========== SET SEED AND NUMBER OF SIMULATION ============================
 num.sim = 2#500
 seed = 123
@@ -33,7 +34,7 @@ plan(multisession, workers = num_cores)
 
 #========== LOAD INFOWORKS FLOW DATA FILE ================================
 message('Loading data...')
-iw.flow    = read.csv('data/dwf_path_states (weekday).csv')
+iw.flow    = read.csv('data/demo_dwf_path_states (weekday).csv')
 message('Data loaded.\n')
 
 # clean
@@ -42,6 +43,10 @@ df.flow = clean(data = iw.flow)
 saveRDS(df.flow, file = "out/df.flow.rds")
 message('Data cleaned.')
 
+# extract geometry from raw flow data 
+df.polygons = dplyr::select(df.flow, c(node_id,geometry))
+saveRDS(df.polygons, file = "out/df.polygons.rds")
+message('Polygons saved.')
 
 #======== LOAD PARAMETERS ===================================
 # stochastic parameters 
@@ -60,7 +65,9 @@ solid.class = length(unique(stoch.params$part.class))
 
 #(oddly, takes longer with multi-cores...)
 df.long.ids = get_path_ids_longformat(df= df.flow,n.cores = 1,
-                                        num.class = solid.class) 
+                                        num.class = solid.class)%>%
+  dplyr::select(- "node_id")%>%
+  rename(node_id = node_id_entry)
 saveRDS(df.long.ids, file = "out/df.long.ids.rds")
 message('Long-format path ids created.')
 
@@ -100,6 +107,9 @@ saveRDS(sim_df_loss_solid, file = "out/sim_df_loss_solid.rds")
 saveRDS(sim_df_loss_total, file = "out/sim_df_loss_total.rds")
 
 
+end <- Sys.time()
+
+cat("Total runtime:", round(difftime(end, start, units = "secs"), 2), "seconds\n")
 
 
 
