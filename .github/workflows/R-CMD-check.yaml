@@ -1,4 +1,4 @@
-name: R-CMD-check
+name: Reproducibility check
 
 on:
   push:
@@ -6,8 +6,11 @@ on:
   pull_request:
     branches: [main, master]
 
+permissions:
+  contents: read
+
 jobs:
-  R-CMD-check:
+  reproducibility-check:
     runs-on: ubuntu-latest
 
     steps:
@@ -15,11 +18,44 @@ jobs:
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
-
-      - name: Install dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          extra-packages: any::rcmdcheck
+          r-version: "4.4.3"
+          use-public-rspm: true
 
-      - name: Check
-        run: Rscript -e 'rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error")'
+      - name: Restore renv environment
+        uses: r-lib/actions/setup-renv@v2
+        with:
+          cache-version: 1
+
+      - name: Parse R scripts
+        shell: Rscript {0}
+        run: |
+          files <- c(
+            list.files(pattern = "[.]R$", full.names = TRUE),
+            list.files("scripts", pattern = "[.]R$", full.names = TRUE,
+                       recursive = TRUE),
+            list.files("utils", pattern = "[.]R$", full.names = TRUE,
+                       recursive = TRUE)
+          )
+          for (file in files) parse(file)
+          message("Parsed ", length(files), " R files successfully.")
+
+      - name: Run reviewer demonstration
+        run: Rscript calc-loss-stochastic.R
+
+      - name: Rebuild summarized manuscript outputs
+        run: Rscript scripts/publish-summarized-manuscript-outputs.R
+
+      - name: Reproduce all public figures
+        run: Rscript make-figures.R --strict
+
+      - name: Upload reproduced outputs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reproduced-manuscript-artifacts
+          path: |
+            out/demo-simulation/
+            out/manuscript-summary/
+            figs/
+          if-no-files-found: warn
