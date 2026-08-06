@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the manuscript and this software release."
+title: "Mechanistic modelling of in-sewer viral fate and transport of SARS-CoV-2 to inform wastewater disease surveillance"
+type: software
+version: 1.0.0
+date-released: 2026-08-06
+license: MIT
+repository-code: "https://github.com/phac-nml-phrsd/fate-model-manuscript"
+authors:
+  - family-names: Nourbakhsh
+    given-names: Shokoofeh
+  - family-names: Snieder
+    given-names: Everett
+  - family-names: Bitter
+    given-names: Lena Carolin
+  - family-names: Champredon
+    given-names: David
+  - family-names: Khan
+    given-names: Usman T.
+  - family-names: Lidder
+    given-names: Ravinder
+  - family-names: Mangat
+    given-names: Chand S.
+  - family-names: McCarthy
+    given-names: David
+  - family-names: Ormeci
+    given-names: Banu
+  - family-names: Spreitzer
+    given-names: Dave
+preferred-citation:
+  type: article
+  title: "Mechanistic modelling of in-sewer viral fate and transport of SARS-CoV-2 to inform wastewater disease surveillance"
+  authors:
+    - family-names: Nourbakhsh
+      given-names: Shokoofeh
+    - family-names: Snieder
+      given-names: Everett
+    - family-names: Bitter
+      given-names: Lena Carolin
+    - family-names: Champredon
+      given-names: David
+    - family-names: Khan
+      given-names: Usman T.
+    - family-names: Lidder
+      given-names: Ravinder
+    - family-names: Mangat
+      given-names: Chand S.
+    - family-names: McCarthy
+      given-names: David
+    - family-names: Ormeci
+      given-names: Banu
+    - family-names: Spreitzer
+      given-names: Dave
+  year: 2026
+

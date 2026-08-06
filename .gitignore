@@ -1,0 +1,20 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporary and editor-generated files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local author-only or restricted inputs
+.author-local/
+data/local/
+data/restricted/
+out/local/

@@ -39,6 +39,19 @@ get_k.deg <- function(){
 # Fit Gamma Distribution for each plant
 #140 - 540 mg/l) Ulaval Roest 2022
 get_TSS <- function(){
+  raw_tss_file <- file.path("data", "City Of Winnipeg Treatment Plant TSS Data.xlsx")
+  demo_tss_file <- file.path("data", "demo_tss_lognormal.csv")
+  if (!file.exists(raw_tss_file)) {
+    if (!file.exists(demo_tss_file)) {
+      stop("Neither raw TSS data nor the public fitted TSS summary is available.")
+    }
+    message("Using public fitted TSS distribution parameters: ", demo_tss_file)
+    demo <- read.csv(demo_tss_file, stringsAsFactors = FALSE)
+    return(stats::setNames(
+      lapply(seq_len(nrow(demo)), function(i) c(meanlog = demo$meanlog[i], sdlog = demo$sdlog[i])),
+      demo$wwtp
+    ))
+  }
   
   tss.dry = get_tss_winter_months()
   

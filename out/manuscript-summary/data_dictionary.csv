@@ -1,0 +1,94 @@
+file,column,description,units
+flow_path_loss_distributions.csv,wwtp,wwtp,category or identifier
+flow_path_loss_distributions.csv,fate_process,fate process,category or identifier
+flow_path_loss_distributions.csv,bin_left_proportion,bin left proportion,proportion (0-1)
+flow_path_loss_distributions.csv,bin_right_proportion,bin right proportion,proportion (0-1)
+flow_path_loss_distributions.csv,bin_mid_proportion,bin mid proportion,proportion (0-1)
+flow_path_loss_distributions.csv,flow_path_count,flow path count,count
+flow_path_loss_distributions.csv,mean_loss_proportion,mean loss proportion,proportion (0-1)
+flow_path_loss_distributions.csv,median_loss_proportion,median loss proportion,proportion (0-1)
+fsa_mean_loss_by_sample_fraction.csv,fsa,fsa,category or identifier
+fsa_mean_loss_by_sample_fraction.csv,wwtp,wwtp,category or identifier
+fsa_mean_loss_by_sample_fraction.csv,population,population,persons
+fsa_mean_loss_by_sample_fraction.csv,sample_fraction,sample fraction,category or identifier
+fsa_mean_loss_by_sample_fraction.csv,mean_loss_proportion,mean loss proportion,proportion (0-1)
+population_equivalent_loss.csv,fsa,fsa,category or identifier
+population_equivalent_loss.csv,wwtp,wwtp,category or identifier
+population_equivalent_loss.csv,population,population,persons
+population_equivalent_loss.csv,sample_fraction,sample fraction,category or identifier
+population_equivalent_loss.csv,population_equivalent_loss_persons,population equivalent loss persons,persons
+effective_surveillance_coverage.csv,location,location,category or identifier
+effective_surveillance_coverage.csv,sample_fraction,sample fraction,category or identifier
+effective_surveillance_coverage.csv,effective_surveillance_coverage_percent,effective surveillance coverage percent,percent
+stochastic_effective_surveillance_coverage.csv,simulation,simulation,simulation index
+stochastic_effective_surveillance_coverage.csv,location,location,category or identifier
+stochastic_effective_surveillance_coverage.csv,sample_fraction,sample fraction,category or identifier
+stochastic_effective_surveillance_coverage.csv,effective_surveillance_coverage_percent,effective surveillance coverage percent,percent
+minimum_detectable_prevalence.csv,fsa,fsa,category or identifier
+minimum_detectable_prevalence.csv,wwtp,wwtp,category or identifier
+minimum_detectable_prevalence.csv,fsa_total_high_shedding_percent,fsa total high shedding percent,percent
+minimum_detectable_prevalence.csv,fsa_solids_high_shedding_percent,fsa solids high shedding percent,percent
+minimum_detectable_prevalence.csv,fsa_liquid_high_shedding_percent,fsa liquid high shedding percent,percent
+minimum_detectable_prevalence.csv,fsa_no_loss_high_shedding_percent,fsa no loss high shedding percent,percent
+minimum_detectable_prevalence.csv,fsa_total_low_shedding_percent,fsa total low shedding percent,percent
+minimum_detectable_prevalence.csv,fsa_no_loss_low_shedding_percent,fsa no loss low shedding percent,percent
+minimum_detectable_prevalence.csv,wwtp_total_high_shedding_percent,wwtp total high shedding percent,percent
+minimum_detectable_prevalence.csv,wwtp_solids_high_shedding_percent,wwtp solids high shedding percent,percent
+minimum_detectable_prevalence.csv,wwtp_liquid_high_shedding_percent,wwtp liquid high shedding percent,percent
+minimum_detectable_prevalence.csv,city_total_high_shedding_percent,city total high shedding percent,percent
+minimum_detectable_prevalence.csv,city_solids_high_shedding_percent,city solids high shedding percent,percent
+minimum_detectable_prevalence.csv,city_liquid_high_shedding_percent,city liquid high shedding percent,percent
+stochastic_minimum_detectable_prevalence.csv,simulation,simulation,simulation index
+stochastic_minimum_detectable_prevalence.csv,location,location,category or identifier
+stochastic_minimum_detectable_prevalence.csv,sample_fraction,sample fraction,category or identifier
+stochastic_minimum_detectable_prevalence.csv,minimum_detectable_prevalence_percent,minimum detectable prevalence percent,percent
+daily_versus_hourly_comparison.csv,wwtp,wwtp,category or identifier
+daily_versus_hourly_comparison.csv,fate_process,fate process,category or identifier
+daily_versus_hourly_comparison.csv,model_version,model version,category or identifier
+daily_versus_hourly_comparison.csv,n_paths,n paths,count
+daily_versus_hourly_comparison.csv,median_of_path_medians_percent,median of path medians percent,percent
+daily_versus_hourly_comparison.csv,mean_of_path_medians_percent,mean of path medians percent,percent
+daily_versus_hourly_comparison.csv,q25_of_path_medians_percent,q25 of path medians percent,percent
+daily_versus_hourly_comparison.csv,q75_of_path_medians_percent,q75 of path medians percent,percent
+threshold_classification_diagnostic.csv,wwtp,wwtp,category or count
+threshold_classification_diagnostic.csv,part.class,part.class,category or count
+threshold_classification_diagnostic.csv,threshold_mode,threshold mode,category or count
+threshold_classification_diagnostic.csv,n_pipe_days,n pipe days,category or count
+threshold_classification_diagnostic.csv,n_sims,n sims,category or count
+threshold_classification_diagnostic.csv,median_F_settle,median F settle,percent or fraction as named
+threshold_classification_diagnostic.csv,q25_F_settle,q25 F settle,percent or fraction as named
+threshold_classification_diagnostic.csv,q75_F_settle,q75 F settle,percent or fraction as named
+threshold_classification_diagnostic.csv,median_F_settle_HRT,median F settle HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,q25_F_settle_HRT,q25 F settle HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,q75_F_settle_HRT,q75 F settle HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,median_F_resusp,median F resusp,percent or fraction as named
+threshold_classification_diagnostic.csv,q25_F_resusp,q25 F resusp,percent or fraction as named
+threshold_classification_diagnostic.csv,q75_F_resusp,q75 F resusp,percent or fraction as named
+threshold_classification_diagnostic.csv,median_F_resusp_HRT,median F resusp HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,q25_F_resusp_HRT,q25 F resusp HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,q75_F_resusp_HRT,q75 F resusp HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,pct_daily_misses_hourly_settling_HRT,pct daily misses hourly settling HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,pct_daily_assumes_all_day_but_hourly_partial_settling_HRT,pct daily assumes all day but hourly partial settling HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,pct_daily_misses_hourly_resuspension_HRT,pct daily misses hourly resuspension HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,pct_daily_assumes_all_day_but_hourly_partial_resuspension_HRT,pct daily assumes all day but hourly partial resuspension HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,median_delta_settle_HRT,median delta settle HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,q25_delta_settle_HRT,q25 delta settle HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,q75_delta_settle_HRT,q75 delta settle HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,median_delta_resusp_HRT,median delta resusp HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,q25_delta_resusp_HRT,q25 delta resusp HRT,percent or fraction as named
+threshold_classification_diagnostic.csv,q75_delta_resusp_HRT,q75 delta resusp HRT,percent or fraction as named
+particle_association_sensitivity.csv,wwtp,wwtp,category or identifier
+particle_association_sensitivity.csv,particle_class,particle class,category or identifier
+particle_association_sensitivity.csv,hydraulic_level,hydraulic level,category or identifier
+particle_association_sensitivity.csv,bin_left_proportion,bin left proportion,proportion (0-1)
+particle_association_sensitivity.csv,bin_right_proportion,bin right proportion,proportion (0-1)
+particle_association_sensitivity.csv,bin_mid_proportion,bin mid proportion,proportion (0-1)
+particle_association_sensitivity.csv,observation_count,observation count,count
+rna_partition_sensitivity.csv,wwtp,wwtp,category or identifier
+rna_partition_sensitivity.csv,particle_association_scenario,particle association scenario,category or identifier
+rna_partition_sensitivity.csv,bin_left_proportion,bin left proportion,proportion (0-1)
+rna_partition_sensitivity.csv,bin_right_proportion,bin right proportion,proportion (0-1)
+rna_partition_sensitivity.csv,bin_mid_proportion,bin mid proportion,proportion (0-1)
+rna_partition_sensitivity.csv,flow_path_count,flow path count,count
+rna_partition_sensitivity.csv,mean_loss_proportion,mean loss proportion,proportion (0-1)
+rna_partition_sensitivity.csv,median_loss_proportion,median loss proportion,proportion (0-1)

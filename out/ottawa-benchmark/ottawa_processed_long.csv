@@ -1,0 +1,1571 @@
+date,site,target,type,value,note
+2021-02-24,D,TS,MG_PER_L,1148.0000000000023,NA
+2021-02-24,D,VS,MG_PER_L,511.00000000000364,NA
+2021-02-24,D,FLOW,RATE_L_PER_S,49.442181822300334,NA
+2021-02-24,D,N1,TOTAL,3.4658088782257037,TOTAL = UF + CF
+2021-02-24,D,N1_FLOW,TOTAL,171357.152718578,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N1_FLOW_PC,TOTAL,21.41964408982225,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N1_PMMOV,TOTAL,3.69745239112886e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N1_TS,TOTAL,0.003018997280684405,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N1_VS,TOTAL,0.006782404849756711,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N2,TOTAL,3.637653043693089,TOTAL = UF + CF
+2021-02-24,D,N2_FLOW,TOTAL,179853.50319271794,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N2_FLOW_PC,TOTAL,22.481687899089742,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N2_PMMOV,TOTAL,3.8807820676441467e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N2_TS,TOTAL,0.003168687320290141,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N2_VS,TOTAL,0.007118694801747677,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,PMMOV,TOTAL,93735.0508296218,TOTAL = UF + CF
+2021-02-24,D,PMMOV_FLOW,TOTAL,4634465426.240725,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,PMMOV_FLOW_PC,TOTAL,579308.1782800906,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,PMMOV_TS,TOTAL,81.65074114078539,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,PMMOV_VS,TOTAL,183.43454174094157,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,D,N1,UF,3.4658088782257037,NA
+2021-02-24,D,N1_FLOW,UF,171357.152718578,NA
+2021-02-24,D,N1_FLOW_PC,UF,21.41964408982225,NA
+2021-02-24,D,N1_PMMOV,UF,3.69745239112886e-5,NA
+2021-02-24,D,N1_TS,UF,0.003018997280684405,NA
+2021-02-24,D,N1_VS,UF,0.006782404849756711,NA
+2021-02-24,D,N2,UF,3.637653043693089,NA
+2021-02-24,D,N2_FLOW,UF,179853.50319271794,NA
+2021-02-24,D,N2_FLOW_PC,UF,22.481687899089742,NA
+2021-02-24,D,N2_PMMOV,UF,3.8807820676441467e-5,NA
+2021-02-24,D,N2_TS,UF,0.003168687320290141,NA
+2021-02-24,D,N2_VS,UF,0.007118694801747677,NA
+2021-02-24,D,PMMOV,UF,93735.0508296218,NA
+2021-02-24,D,PMMOV_FLOW,UF,4634465426.240725,NA
+2021-02-24,D,PMMOV_FLOW_PC,UF,579308.1782800906,NA
+2021-02-24,D,PMMOV_TS,UF,81.65074114078539,NA
+2021-02-24,D,PMMOV_VS,UF,183.43454174094157,NA
+2021-02-24,WWTP,TS,MG_PER_L,1398.0000000000014,NA
+2021-02-24,WWTP,VS,MG_PER_L,375.9999999999986,NA
+2021-02-24,WWTP,FLOW,RATE_L_PER_S,3910.9953703703704,NA
+2021-02-24,WWTP,N1,TOTAL,10.766335275754754,TOTAL = UF + CF
+2021-02-24,WWTP,N1_FLOW,TOTAL,42107087.41933205,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N1_FLOW_PC,TOTAL,46.27152463662863,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N1_PMMOV,TOTAL,1.848540566108861e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N1_TS,TOTAL,0.00770124125590468,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N1_VS,TOTAL,0.028633870414241477,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N2,TOTAL,13.9102617099649,TOTAL = UF + CF
+2021-02-24,WWTP,N2_FLOW,TOTAL,54402969.148312956,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N2_FLOW_PC,TOTAL,59.783482580563685,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N2_PMMOV,TOTAL,2.388341287677233e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N2_TS,TOTAL,0.00995011567236401,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N2_VS,TOTAL,0.03699537688820466,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,PMMOV,TOTAL,58242.35330911706,TOTAL = UF + CF
+2021-02-24,WWTP,PMMOV_FLOW,TOTAL,227785574151.43225,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,PMMOV_FLOW_PC,TOTAL,250313.81774882664,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,PMMOV_TS,TOTAL,41.66119693069886,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,PMMOV_VS,TOTAL,154.89987582212044,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-02-24,WWTP,N1,UF,10.766335275754754,NA
+2021-02-24,WWTP,N1_FLOW,UF,42107087.41933205,NA
+2021-02-24,WWTP,N1_FLOW_PC,UF,46.27152463662863,NA
+2021-02-24,WWTP,N1_PMMOV,UF,1.848540566108861e-4,NA
+2021-02-24,WWTP,N1_TS,UF,0.00770124125590468,NA
+2021-02-24,WWTP,N1_VS,UF,0.028633870414241477,NA
+2021-02-24,WWTP,N2,UF,13.9102617099649,NA
+2021-02-24,WWTP,N2_FLOW,UF,54402969.148312956,NA
+2021-02-24,WWTP,N2_FLOW_PC,UF,59.783482580563685,NA
+2021-02-24,WWTP,N2_PMMOV,UF,2.388341287677233e-4,NA
+2021-02-24,WWTP,N2_TS,UF,0.00995011567236401,NA
+2021-02-24,WWTP,N2_VS,UF,0.03699537688820466,NA
+2021-02-24,WWTP,PMMOV,UF,58242.35330911706,NA
+2021-02-24,WWTP,PMMOV_FLOW,UF,227785574151.43225,NA
+2021-02-24,WWTP,PMMOV_FLOW_PC,UF,250313.81774882664,NA
+2021-02-24,WWTP,PMMOV_TS,UF,41.66119693069886,NA
+2021-02-24,WWTP,PMMOV_VS,UF,154.89987582212044,NA
+2021-03-03,D,TS,MG_PER_L,955.9999999999968,NA
+2021-03-03,D,VS,MG_PER_L,343.9999999999976,NA
+2021-03-03,D,FLOW,RATE_L_PER_S,24.70142972,NA
+2021-03-03,D,N1,TOTAL,8.34328640542792,TOTAL = UF + CF
+2021-03-03,D,N1_FLOW,TOTAL,206091.10277750916,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N1_FLOW_PC,TOTAL,25.761387847188647,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N1_PMMOV,TOTAL,2.5699768957157884e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N1_TS,TOTAL,0.008727287034966473,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N1_VS,TOTAL,0.024253739550662727,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N2,TOTAL,5.3339990863527005,TOTAL = UF + CF
+2021-03-03,D,N2_FLOW,TOTAL,131757.40355808547,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N2_FLOW_PC,TOTAL,16.469675444760682,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N2_PMMOV,TOTAL,1.6430281483298165e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N2_TS,TOTAL,0.005579496952251797,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N2_VS,TOTAL,0.015505811297537028,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,PMMOV,TOTAL,32464.4412925905,TOTAL = UF + CF
+2021-03-03,D,PMMOV_FLOW,TOTAL,801918114.9879903,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,PMMOV_FLOW_PC,TOTAL,100239.76437349878,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,PMMOV_TS,TOTAL,33.95862059894415,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,PMMOV_VS,TOTAL,94.37337585055444,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,D,N1,UF,8.34328640542792,NA
+2021-03-03,D,N1_FLOW,UF,206091.10277750916,NA
+2021-03-03,D,N1_FLOW_PC,UF,25.761387847188647,NA
+2021-03-03,D,N1_PMMOV,UF,2.5699768957157884e-4,NA
+2021-03-03,D,N1_TS,UF,0.008727287034966473,NA
+2021-03-03,D,N1_VS,UF,0.024253739550662727,NA
+2021-03-03,D,N2,UF,5.3339990863527005,NA
+2021-03-03,D,N2_FLOW,UF,131757.40355808547,NA
+2021-03-03,D,N2_FLOW_PC,UF,16.469675444760682,NA
+2021-03-03,D,N2_PMMOV,UF,1.6430281483298165e-4,NA
+2021-03-03,D,N2_TS,UF,0.005579496952251797,NA
+2021-03-03,D,N2_VS,UF,0.015505811297537028,NA
+2021-03-03,D,PMMOV,UF,32464.4412925905,NA
+2021-03-03,D,PMMOV_FLOW,UF,801918114.9879903,NA
+2021-03-03,D,PMMOV_FLOW_PC,UF,100239.76437349878,NA
+2021-03-03,D,PMMOV_TS,UF,33.95862059894415,NA
+2021-03-03,D,PMMOV_VS,UF,94.37337585055444,NA
+2021-03-03,WWTP,TS,MG_PER_L,1013.0000000000017,NA
+2021-03-03,WWTP,VS,MG_PER_L,363.0000000000022,NA
+2021-03-03,WWTP,FLOW,RATE_L_PER_S,3993.8835470085473,NA
+2021-03-03,WWTP,N1,TOTAL,8.825995072517518,TOTAL = UF + CF
+2021-03-03,WWTP,N1_FLOW,TOTAL,35249996.50610623,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N1_FLOW_PC,TOTAL,38.73625989682003,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N1_PMMOV,TOTAL,4.1173080585083194e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N1_TS,TOTAL,0.008712729587875126,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N1_VS,TOTAL,0.024314036012444806,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N2,TOTAL,4.893582642272673,TOTAL = UF + CF
+2021-03-03,WWTP,N2_FLOW,TOTAL,19544399.200899445,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N2_FLOW_PC,TOTAL,21.47736175923016,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N2_PMMOV,TOTAL,2.2828459660876067e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N2_TS,TOTAL,0.004830782470160577,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N2_VS,TOTAL,0.013480943918106454,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,PMMOV,TOTAL,21436.32428542433,TOTAL = UF + CF
+2021-03-03,WWTP,PMMOV_FLOW,TOTAL,85614182871.89598,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,PMMOV_FLOW_PC,TOTAL,94081.51963944614,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,PMMOV_TS,TOTAL,21.1612283172994,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,PMMOV_VS,TOTAL,59.05323494607217,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-03,WWTP,N1,UF,8.825995072517518,NA
+2021-03-03,WWTP,N1_FLOW,UF,35249996.50610623,NA
+2021-03-03,WWTP,N1_FLOW_PC,UF,38.73625989682003,NA
+2021-03-03,WWTP,N1_PMMOV,UF,4.1173080585083194e-4,NA
+2021-03-03,WWTP,N1_TS,UF,0.008712729587875126,NA
+2021-03-03,WWTP,N1_VS,UF,0.024314036012444806,NA
+2021-03-03,WWTP,N2,UF,4.893582642272673,NA
+2021-03-03,WWTP,N2_FLOW,UF,19544399.200899445,NA
+2021-03-03,WWTP,N2_FLOW_PC,UF,21.47736175923016,NA
+2021-03-03,WWTP,N2_PMMOV,UF,2.2828459660876067e-4,NA
+2021-03-03,WWTP,N2_TS,UF,0.004830782470160577,NA
+2021-03-03,WWTP,N2_VS,UF,0.013480943918106454,NA
+2021-03-03,WWTP,PMMOV,UF,21436.32428542433,NA
+2021-03-03,WWTP,PMMOV_FLOW,UF,85614182871.89598,NA
+2021-03-03,WWTP,PMMOV_FLOW_PC,UF,94081.51963944614,NA
+2021-03-03,WWTP,PMMOV_TS,UF,21.1612283172994,NA
+2021-03-03,WWTP,PMMOV_VS,UF,59.05323494607217,NA
+2021-03-10,D,TS,MG_PER_L,1217.0000000000014,NA
+2021-03-10,D,VS,MG_PER_L,588.0000000000018,NA
+2021-03-10,D,FLOW,RATE_L_PER_S,24.22223254,NA
+2021-03-10,D,N1,TOTAL,0.8773236736464934,TOTAL = UF + CF
+2021-03-10,D,N1_FLOW,TOTAL,21250.738035912433,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N1_FLOW_PC,TOTAL,2.6563422544890543,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N1_PMMOV,TOTAL,2.198908655488697e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N1_TS,TOTAL,7.208904467103472e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N1_VS,TOTAL,0.0014920470640246441,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N2,TOTAL,0.7205730950262469,TOTAL = UF + CF
+2021-03-10,D,N2_FLOW,TOTAL,17453.88906979327,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N2_FLOW_PC,TOTAL,2.1817361337241588,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N2_PMMOV,TOTAL,1.806031756762941e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N2_TS,TOTAL,5.920896425852473e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N2_VS,TOTAL,0.0012254644473235453,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,PMMOV,TOTAL,39898.14090078755,TOTAL = UF + CF
+2021-03-10,D,PMMOV_FLOW,TOTAL,966422046.8125612,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,PMMOV_FLOW_PC,TOTAL,120802.75585157014,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,PMMOV_TS,TOTAL,32.784010600482745,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,PMMOV_VS,TOTAL,67.85398112378813,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,D,N1,UF,0.8773236736464934,NA
+2021-03-10,D,N1_FLOW,UF,21250.738035912433,NA
+2021-03-10,D,N1_FLOW_PC,UF,2.6563422544890543,NA
+2021-03-10,D,N1_PMMOV,UF,2.198908655488697e-5,NA
+2021-03-10,D,N1_TS,UF,7.208904467103472e-4,NA
+2021-03-10,D,N1_VS,UF,0.0014920470640246441,NA
+2021-03-10,D,N2,UF,0.7205730950262469,NA
+2021-03-10,D,N2_FLOW,UF,17453.88906979327,NA
+2021-03-10,D,N2_FLOW_PC,UF,2.1817361337241588,NA
+2021-03-10,D,N2_PMMOV,UF,1.806031756762941e-5,NA
+2021-03-10,D,N2_TS,UF,5.920896425852473e-4,NA
+2021-03-10,D,N2_VS,UF,0.0012254644473235453,NA
+2021-03-10,D,PMMOV,UF,39898.14090078755,NA
+2021-03-10,D,PMMOV_FLOW,UF,966422046.8125612,NA
+2021-03-10,D,PMMOV_FLOW_PC,UF,120802.75585157014,NA
+2021-03-10,D,PMMOV_TS,UF,32.784010600482745,NA
+2021-03-10,D,PMMOV_VS,UF,67.85398112378813,NA
+2021-03-10,WWTP,TS,MG_PER_L,959.0000000000032,NA
+2021-03-10,WWTP,VS,MG_PER_L,367.00000000000625,NA
+2021-03-10,WWTP,FLOW,RATE_L_PER_S,3979.0684234454206,NA
+2021-03-10,WWTP,N1,TOTAL,2.6303023857670165,TOTAL = UF + CF
+2021-03-10,WWTP,N1_FLOW,TOTAL,10466153.16731869,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N1_FLOW_PC,TOTAL,11.501267216833726,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N1_PMMOV,TOTAL,4.0414763408549066e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N1_TS,TOTAL,0.0027427553553357746,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N1_VS,TOTAL,0.007167036473479486,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N2,TOTAL,5.5298242185839035,TOTAL = UF + CF
+2021-03-10,WWTP,N2_FLOW,TOTAL,22003548.935370956,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N2_FLOW_PC,TOTAL,24.17972410480325,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N2_PMMOV,TOTAL,8.496610073969225e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N2_TS,TOTAL,0.005766240061088514,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N2_VS,TOTAL,0.015067640922571688,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,PMMOV,TOTAL,65082.71146307441,TOTAL = UF + CF
+2021-03-10,WWTP,PMMOV_FLOW,TOTAL,258968562094.9287,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,PMMOV_FLOW_PC,TOTAL,284580.8374669546,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,PMMOV_TS,TOTAL,67.86518400737664,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,PMMOV_VS,TOTAL,177.3370884552406,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-10,WWTP,N1,UF,2.6303023857670165,NA
+2021-03-10,WWTP,N1_FLOW,UF,10466153.16731869,NA
+2021-03-10,WWTP,N1_FLOW_PC,UF,11.501267216833726,NA
+2021-03-10,WWTP,N1_PMMOV,UF,4.0414763408549066e-5,NA
+2021-03-10,WWTP,N1_TS,UF,0.0027427553553357746,NA
+2021-03-10,WWTP,N1_VS,UF,0.007167036473479486,NA
+2021-03-10,WWTP,N2,UF,5.5298242185839035,NA
+2021-03-10,WWTP,N2_FLOW,UF,22003548.935370956,NA
+2021-03-10,WWTP,N2_FLOW_PC,UF,24.17972410480325,NA
+2021-03-10,WWTP,N2_PMMOV,UF,8.496610073969225e-5,NA
+2021-03-10,WWTP,N2_TS,UF,0.005766240061088514,NA
+2021-03-10,WWTP,N2_VS,UF,0.015067640922571688,NA
+2021-03-10,WWTP,PMMOV,UF,65082.71146307441,NA
+2021-03-10,WWTP,PMMOV_FLOW,UF,258968562094.9287,NA
+2021-03-10,WWTP,PMMOV_FLOW_PC,UF,284580.8374669546,NA
+2021-03-10,WWTP,PMMOV_TS,UF,67.86518400737664,NA
+2021-03-10,WWTP,PMMOV_VS,UF,177.3370884552406,NA
+2021-03-17,D,TS,MG_PER_L,1276.0000000000016,NA
+2021-03-17,D,VS,MG_PER_L,459.9999999999982,NA
+2021-03-17,D,FLOW,RATE_L_PER_S,24.91851764,NA
+2021-03-17,D,N1,TOTAL,1.033011333120544,TOTAL = UF + CF
+2021-03-17,D,N1_FLOW,TOTAL,25741.11112668419,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N1_FLOW_PC,TOTAL,3.217638890835524,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N1_PMMOV,TOTAL,2.0552078957102442e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N1_TS,TOTAL,8.095700102825569e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N1_VS,TOTAL,0.002245676811131626,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N2,TOTAL,0.6540064481740977,TOTAL = UF + CF
+2021-03-17,D,N2_FLOW,TOTAL,16296.871215500001,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N2_FLOW_PC,TOTAL,2.0371089019375,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N2_PMMOV,TOTAL,1.3011659921217638e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N2_TS,TOTAL,5.125442383809536e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N2_VS,TOTAL,0.0014217531482045658,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,PMMOV,TOTAL,5026.310648556326,TOTAL = UF + CF
+2021-03-17,D,PMMOV_FLOW,TOTAL,125248210.56017064,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,PMMOV_FLOW_PC,TOTAL,15656.02632002133,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,PMMOV_TS,TOTAL,3.9391149283356737,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,PMMOV_VS,TOTAL,10.926762279470317,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,D,N1,UF,1.033011333120544,NA
+2021-03-17,D,N1_FLOW,UF,25741.11112668419,NA
+2021-03-17,D,N1_FLOW_PC,UF,3.217638890835524,NA
+2021-03-17,D,N1_PMMOV,UF,2.0552078957102442e-4,NA
+2021-03-17,D,N1_TS,UF,8.095700102825569e-4,NA
+2021-03-17,D,N1_VS,UF,0.002245676811131626,NA
+2021-03-17,D,N2,UF,0.6540064481740977,NA
+2021-03-17,D,N2_FLOW,UF,16296.871215500001,NA
+2021-03-17,D,N2_FLOW_PC,UF,2.0371089019375,NA
+2021-03-17,D,N2_PMMOV,UF,1.3011659921217638e-4,NA
+2021-03-17,D,N2_TS,UF,5.125442383809536e-4,NA
+2021-03-17,D,N2_VS,UF,0.0014217531482045658,NA
+2021-03-17,D,PMMOV,UF,5026.310648556326,NA
+2021-03-17,D,PMMOV_FLOW,UF,125248210.56017064,NA
+2021-03-17,D,PMMOV_FLOW_PC,UF,15656.02632002133,NA
+2021-03-17,D,PMMOV_TS,UF,3.9391149283356737,NA
+2021-03-17,D,PMMOV_VS,UF,10.926762279470317,NA
+2021-03-17,WWTP,TS,MG_PER_L,1124.0000000000005,NA
+2021-03-17,WWTP,VS,MG_PER_L,339.00000000000045,NA
+2021-03-17,WWTP,FLOW,RATE_L_PER_S,5463.064777383313,NA
+2021-03-17,WWTP,N1,TOTAL,1.5203690205941978,TOTAL = UF + CF
+2021-03-17,WWTP,N1_FLOW,TOTAL,8305874.445032927,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N1_FLOW_PC,TOTAL,9.127334554981239,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N1_PMMOV,TOTAL,3.182000443124621e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N1_TS,TOTAL,0.0013526414773969726,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N1_VS,TOTAL,0.004484864367534501,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N2,TOTAL,1.6054673403733641,TOTAL = UF + CF
+2021-03-17,WWTP,N2_FLOW,TOTAL,8770772.078432992,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N2_FLOW_PC,TOTAL,9.63821107520109,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N2_PMMOV,TOTAL,3.3601038427457465e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N2_TS,TOTAL,0.0014283517263108216,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N2_VS,TOTAL,0.004735891859508443,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,PMMOV,TOTAL,4778.028940502739,TOTAL = UF + CF
+2021-03-17,WWTP,PMMOV_FLOW,TOTAL,26102681610.178623,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,PMMOV_FLOW_PC,TOTAL,28684.265505690793,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,PMMOV_TS,TOTAL,4.250915427493538,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,PMMOV_VS,TOTAL,14.094480650450539,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-17,WWTP,N1,UF,1.5203690205941978,NA
+2021-03-17,WWTP,N1_FLOW,UF,8305874.445032927,NA
+2021-03-17,WWTP,N1_FLOW_PC,UF,9.127334554981239,NA
+2021-03-17,WWTP,N1_PMMOV,UF,3.182000443124621e-4,NA
+2021-03-17,WWTP,N1_TS,UF,0.0013526414773969726,NA
+2021-03-17,WWTP,N1_VS,UF,0.004484864367534501,NA
+2021-03-17,WWTP,N2,UF,1.6054673403733641,NA
+2021-03-17,WWTP,N2_FLOW,UF,8770772.078432992,NA
+2021-03-17,WWTP,N2_FLOW_PC,UF,9.63821107520109,NA
+2021-03-17,WWTP,N2_PMMOV,UF,3.3601038427457465e-4,NA
+2021-03-17,WWTP,N2_TS,UF,0.0014283517263108216,NA
+2021-03-17,WWTP,N2_VS,UF,0.004735891859508443,NA
+2021-03-17,WWTP,PMMOV,UF,4778.028940502739,NA
+2021-03-17,WWTP,PMMOV_FLOW,UF,26102681610.178623,NA
+2021-03-17,WWTP,PMMOV_FLOW_PC,UF,28684.265505690793,NA
+2021-03-17,WWTP,PMMOV_TS,UF,4.250915427493538,NA
+2021-03-17,WWTP,PMMOV_VS,UF,14.094480650450539,NA
+2021-03-24,D,N1,CF,12.077915576561784,NA
+2021-03-24,D,N1_FLOW,CF,298484.37392515613,NA
+2021-03-24,D,N1_FLOW_PC,CF,37.31054674064452,NA
+2021-03-24,D,N1_TS,CF,0.008777554924826882,NA
+2021-03-24,D,N1_VS,CF,0.026780300613219215,NA
+2021-03-24,D,N2,CF,8.185997475162894,NA
+2021-03-24,D,N2_FLOW,CF,202302.4847158656,NA
+2021-03-24,D,N2_FLOW_PC,CF,25.2878105894832,NA
+2021-03-24,D,N2_TS,CF,0.005949126072066059,NA
+2021-03-24,D,N2_VS,CF,0.01815077045490676,NA
+2021-03-24,D,PMMOV,CF,NA,NA
+2021-03-24,D,TS,MG_PER_L,1375.9999999999995,NA
+2021-03-24,D,VS,MG_PER_L,450.99999999999693,NA
+2021-03-24,D,FLOW,RATE_L_PER_S,24.71323566,NA
+2021-03-24,D,N1,TOTAL,14.577882604194812,TOTAL = UF + CF
+2021-03-24,D,N1_FLOW,TOTAL,360266.6482212809,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N1_FLOW_PC,TOTAL,45.03333102766011,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N1_PMMOV,TOTAL,0.0023705271033980188,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N1_TS,TOTAL,0.010594391427467164,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N1_VS,TOTAL,0.03232346475431244,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N2,TOTAL,10.847308926723684,TOTAL = UF + CF
+2021-03-24,D,N2_FLOW,TOTAL,268072.10178294405,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N2_FLOW_PC,TOTAL,33.50901272286801,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N2_PMMOV,TOTAL,0.0017638940103915067,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N2_TS,TOTAL,0.007883218696746866,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N2_VS,TOTAL,0.02405168276435423,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,PMMOV,TOTAL,6149.637598869141,TOTAL = UF + CF
+2021-03-24,D,PMMOV_FLOW,TOTAL,151977443.2044496,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,PMMOV_FLOW_PC,TOTAL,18997.1804005562,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,PMMOV_TS,TOTAL,4.469213371271179,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,PMMOV_VS,TOTAL,13.63556008618444,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,D,N1,UF,2.4999670276330277,NA
+2021-03-24,D,N1_FLOW,UF,61782.27429612474,NA
+2021-03-24,D,N1_FLOW_PC,UF,7.7227842870155925,NA
+2021-03-24,D,N1_PMMOV,UF,4.0652265884622983e-4,NA
+2021-03-24,D,N1_TS,UF,0.0018168365026402823,NA
+2021-03-24,D,N1_VS,UF,0.005543164141093225,NA
+2021-03-24,D,N2,UF,2.6613114515607905,NA
+2021-03-24,D,N2_FLOW,UF,65769.61706707849,NA
+2021-03-24,D,N2_FLOW_PC,UF,8.22120213338481,NA
+2021-03-24,D,N2_PMMOV,UF,4.327590705589188e-4,NA
+2021-03-24,D,N2_TS,UF,0.0019340926246808076,NA
+2021-03-24,D,N2_VS,UF,0.005900912309447469,NA
+2021-03-24,D,PMMOV,UF,6149.637598869141,NA
+2021-03-24,D,PMMOV_FLOW,UF,151977443.2044496,NA
+2021-03-24,D,PMMOV_FLOW_PC,UF,18997.1804005562,NA
+2021-03-24,D,PMMOV_TS,UF,4.469213371271179,NA
+2021-03-24,D,PMMOV_VS,UF,13.63556008618444,NA
+2021-03-24,WWTP,N1,CF,1.8333699143774156,NA
+2021-03-24,WWTP,N1_FLOW,CF,10687356.97835166,NA
+2021-03-24,WWTP,N1_FLOW_PC,CF,11.744348327858967,NA
+2021-03-24,WWTP,N1_TS,CF,0.0017477310909222226,NA
+2021-03-24,WWTP,N1_VS,CF,0.006571218331101788,NA
+2021-03-24,WWTP,N2,CF,2.01557041190649,NA
+2021-03-24,WWTP,N2_FLOW,CF,11749467.654138412,NA
+2021-03-24,WWTP,N2_FLOW_PC,CF,12.911502916635618,NA
+2021-03-24,WWTP,N2_TS,CF,0.0019214207930471742,NA
+2021-03-24,WWTP,N2_VS,CF,0.007224266709342193,NA
+2021-03-24,WWTP,PMMOV,CF,NA,NA
+2021-03-24,WWTP,TS,MG_PER_L,1049.0000000000023,NA
+2021-03-24,WWTP,VS,MG_PER_L,279.00000000000256,NA
+2021-03-24,WWTP,FLOW,RATE_L_PER_S,5829.351127964223,NA
+2021-03-24,WWTP,N1,TOTAL,4.0815055460281675,TOTAL = UF + CF
+2021-03-24,WWTP,N1_FLOW,TOTAL,23792528.958531532,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N1_FLOW_PC,TOTAL,26.14563621816652,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N1_PMMOV,TOTAL,9.519132537044788e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N1_TS,TOTAL,0.0038908537140401895,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N1_VS,TOTAL,0.014629052136301541,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N2,TOTAL,4.5247861736047454,TOTAL = UF + CF
+2021-03-24,WWTP,N2_FLOW,TOTAL,26376567.384899747,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N2_FLOW_PC,TOTAL,28.985238884505215,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N2_PMMOV,TOTAL,0.0010552978258291474,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N2_TS,TOTAL,0.004313428192187546,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N2_VS,TOTAL,0.016217871589981017,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,PMMOV,TOTAL,4287.686435864322,TOTAL = UF + CF
+2021-03-24,WWTP,PMMOV_FLOW,TOTAL,24994429761.26259,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,PMMOV_FLOW_PC,TOTAL,27466.40633105779,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,PMMOV_TS,TOTAL,4.087403656686666,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,PMMOV_VS,TOTAL,15.368051741449044,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-24,WWTP,N1,UF,2.2481356316507517,NA
+2021-03-24,WWTP,N1_FLOW,UF,13105171.980179872,NA
+2021-03-24,WWTP,N1_FLOW_PC,UF,14.401287890307552,NA
+2021-03-24,WWTP,N1_PMMOV,UF,5.243237035353699e-4,NA
+2021-03-24,WWTP,N1_TS,UF,0.0021431226231179664,NA
+2021-03-24,WWTP,N1_VS,UF,0.008057833805199753,NA
+2021-03-24,WWTP,N2,UF,2.5092157616982558,NA
+2021-03-24,WWTP,N2_FLOW,UF,14627099.730761336,NA
+2021-03-24,WWTP,N2_FLOW_PC,UF,16.0737359678696,NA
+2021-03-24,WWTP,N2_PMMOV,UF,5.852143805829499e-4,NA
+2021-03-24,WWTP,N2_TS,UF,0.002392007399140372,NA
+2021-03-24,WWTP,N2_VS,UF,0.008993604880638826,NA
+2021-03-24,WWTP,PMMOV,UF,4287.686435864322,NA
+2021-03-24,WWTP,PMMOV_FLOW,UF,24994429761.26259,NA
+2021-03-24,WWTP,PMMOV_FLOW_PC,UF,27466.40633105779,NA
+2021-03-24,WWTP,PMMOV_TS,UF,4.087403656686666,NA
+2021-03-24,WWTP,PMMOV_VS,UF,15.368051741449044,NA
+2021-03-31,D,N1,CF,21.51428077903034,NA
+2021-03-31,D,N1_FLOW,CF,537650.4522602867,NA
+2021-03-31,D,N1_FLOW_PC,CF,67.20630653253583,NA
+2021-03-31,D,N1_PMMOV,CF,0.006207287990726026,NA
+2021-03-31,D,N1_TS,CF,0.015819324102228177,NA
+2021-03-31,D,N1_VS,CF,0.05502373600775035,NA
+2021-03-31,D,N2,CF,11.171586561324554,NA
+2021-03-31,D,N2_FLOW,CF,279182.401161904,NA
+2021-03-31,D,N2_FLOW_PC,CF,34.897800145237994,NA
+2021-03-31,D,N2_PMMOV,CF,0.0032232197679160153,NA
+2021-03-31,D,N2_TS,CF,0.00821440188332687,NA
+2021-03-31,D,N2_VS,CF,0.028571832637658768,NA
+2021-03-31,D,PMMOV,CF,3465.9710990006693,NA
+2021-03-31,D,PMMOV_FLOW,CF,86615999.30010678,NA
+2021-03-31,D,PMMOV_FLOW_PC,CF,10826.999912513347,NA
+2021-03-31,D,PMMOV_TS,CF,2.5485081610299014,NA
+2021-03-31,D,PMMOV_VS,CF,8.864376212277946,NA
+2021-03-31,D,TS,MG_PER_L,1360.0000000000014,NA
+2021-03-31,D,VS,MG_PER_L,390.99999999999915,NA
+2021-03-31,D,FLOW,RATE_L_PER_S,24.9903986,NA
+2021-03-31,D,N1,TOTAL,26.926233219786774,TOTAL = UF + CF
+2021-03-31,D,N1_FLOW,TOTAL,672897.3009590328,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N1_FLOW_PC,TOTAL,84.1121626198791,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N1_PMMOV,TOTAL,0.0018054373136904317,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N1_TS,TOTAL,0.01979870089690202,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N1_VS,TOTAL,0.06886504659792028,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N2,TOTAL,15.443882397424417,TOTAL = UF + CF
+2021-03-31,D,N2_FLOW,TOTAL,385948.7770431598,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N2_FLOW_PC,TOTAL,48.243597130394974,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N2_PMMOV,TOTAL,0.0010355314581494102,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N2_TS,TOTAL,0.011355795880459119,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N2_VS,TOTAL,0.03949842045377097,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,PMMOV,TOTAL,14913.967389290185,TOTAL = UF + CF
+2021-03-31,D,PMMOV_FLOW,TOTAL,372705989.76576304,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,PMMOV_FLOW_PC,TOTAL,46588.24872072038,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,PMMOV_TS,TOTAL,10.966152492125126,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,PMMOV_VS,TOTAL,38.143139103044035,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,D,N1,UF,5.411952440756433,NA
+2021-03-31,D,N1_FLOW,UF,135246.84869874612,NA
+2021-03-31,D,N1_FLOW_PC,UF,16.905856087343267,NA
+2021-03-31,D,N1_PMMOV,UF,4.727423300570939e-4,NA
+2021-03-31,D,N1_TS,UF,0.003979376794673844,NA
+2021-03-31,D,N1_VS,UF,0.013841310590169935,NA
+2021-03-31,D,N2,UF,4.272295836099862,NA
+2021-03-31,D,N2_FLOW,UF,106766.37588125581,NA
+2021-03-31,D,N2_FLOW_PC,UF,13.345796985156976,NA
+2021-03-31,D,N2_PMMOV,UF,3.731915811087162e-4,NA
+2021-03-31,D,N2_TS,UF,0.0031413939971322484,NA
+2021-03-31,D,N2_VS,UF,0.010926587816112204,NA
+2021-03-31,D,PMMOV,UF,11447.996290289515,NA
+2021-03-31,D,PMMOV_FLOW,UF,286089990.4656563,NA
+2021-03-31,D,PMMOV_FLOW_PC,UF,35761.248808207034,NA
+2021-03-31,D,PMMOV_TS,UF,8.417644331095223,NA
+2021-03-31,D,PMMOV_VS,UF,29.278762890766085,NA
+2021-03-31,WWTP,N1,CF,9.318750332179802,NA
+2021-03-31,WWTP,N1_FLOW,CF,71145332.79993144,NA
+2021-03-31,WWTP,N1_FLOW_PC,CF,78.18168439552905,NA
+2021-03-31,WWTP,N1_PMMOV,CF,0.003063317724188321,NA
+2021-03-31,WWTP,N1_TS,CF,0.00796474387365795,NA
+2021-03-31,WWTP,N1_VS,CF,0.0417881180815238,NA
+2021-03-31,WWTP,N2,CF,3.842711499904226,NA
+2021-03-31,WWTP,N2_FLOW,CF,29337730.786790963,NA
+2021-03-31,WWTP,N2_FLOW_PC,CF,32.23926460086919,NA
+2021-03-31,WWTP,N2_PMMOV,CF,0.0012632000887446652,NA
+2021-03-31,WWTP,N2_TS,CF,0.0032843688033369453,NA
+2021-03-31,WWTP,N2_VS,CF,0.01723189013409968,NA
+2021-03-31,WWTP,PMMOV,CF,3042.044988868716,NA
+2021-03-31,WWTP,PMMOV_FLOW,CF,23224927743.58971,NA
+2021-03-31,WWTP,PMMOV_FLOW_PC,CF,25521.898619329353,NA
+2021-03-31,WWTP,PMMOV_TS,CF,2.600038452024543,NA
+2021-03-31,WWTP,PMMOV_VS,CF,13.641457349187075,NA
+2021-03-31,WWTP,TS,MG_PER_L,1170,NA
+2021-03-31,WWTP,VS,MG_PER_L,222.99999999999986,NA
+2021-03-31,WWTP,FLOW,RATE_L_PER_S,7634.643086664758,NA
+2021-03-31,WWTP,N1,TOTAL,19.41692366132768,TOTAL = UF + CF
+2021-03-31,WWTP,N1_FLOW,TOTAL,148241281.99525273,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N1_FLOW_PC,TOTAL,162.90250768709092,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N1_PMMOV,TOTAL,0.0014410469274662933,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N1_TS,TOTAL,0.016595661248998018,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N1_VS,TOTAL,0.08707140655303898,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N2,TOTAL,11.459718813521583,TOTAL = UF + CF
+2021-03-31,WWTP,N2_FLOW,TOTAL,87490863.01477462,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N2_FLOW_PC,TOTAL,96.14380551074134,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N2_PMMOV,TOTAL,8.504947989646558e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N2_TS,TOTAL,0.009794631464548361,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N2_VS,TOTAL,0.05138887360323583,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,PMMOV,TOTAL,13474.178592828546,TOTAL = UF + CF
+2021-03-31,WWTP,PMMOV_FLOW,TOTAL,102870544442.22475,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,PMMOV_FLOW_PC,TOTAL,113044.5543321151,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,PMMOV_TS,TOTAL,11.516391959682519,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,PMMOV_VS,TOTAL,60.42232552837917,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-03-31,WWTP,N1,UF,10.098173329147878,NA
+2021-03-31,WWTP,N1_FLOW,UF,77095949.19532129,NA
+2021-03-31,WWTP,N1_FLOW_PC,UF,84.72082329156186,NA
+2021-03-31,WWTP,N1_PMMOV,UF,9.679873468371621e-4,NA
+2021-03-31,WWTP,N1_TS,UF,0.008630917375340066,NA
+2021-03-31,WWTP,N1_VS,UF,0.04528328847151518,NA
+2021-03-31,WWTP,N2,UF,7.617007313617356,NA
+2021-03-31,WWTP,N2_FLOW,UF,58153132.227983646,NA
+2021-03-31,WWTP,N2_FLOW_PC,UF,63.90454090987214,NA
+2021-03-31,WWTP,N2_PMMOV,UF,7.301485585581546e-4,NA
+2021-03-31,WWTP,N2_TS,UF,0.006510262661211416,NA
+2021-03-31,WWTP,N2_VS,UF,0.03415698346913615,NA
+2021-03-31,WWTP,PMMOV,UF,10432.13360395983,NA
+2021-03-31,WWTP,PMMOV_FLOW,UF,79645616698.63503,NA
+2021-03-31,WWTP,PMMOV_FLOW_PC,UF,87522.65571278574,NA
+2021-03-31,WWTP,PMMOV_TS,UF,8.916353507657975,NA
+2021-03-31,WWTP,PMMOV_VS,UF,46.78086817919209,NA
+2021-04-08,D,N1,CF,3.1578674718143134,NA
+2021-04-08,D,N1_FLOW,CF,177369.14812234766,NA
+2021-04-08,D,N1_FLOW_PC,CF,22.17114351529346,NA
+2021-04-08,D,N1_PMMOV,CF,4.058086823058659e-4,NA
+2021-04-08,D,N1_TS,CF,0.0029266612343042905,NA
+2021-04-08,D,N1_VS,CF,0.006925147964505094,NA
+2021-04-08,D,N2,CF,1.948474473017649,NA
+2021-04-08,D,N2_FLOW,CF,109440.70975173666,NA
+2021-04-08,D,N2_FLOW_PC,CF,13.680088718967083,NA
+2021-04-08,D,N2_PMMOV,CF,2.503929837016299e-4,NA
+2021-04-08,D,N2_TS,CF,0.0018058150815733632,NA
+2021-04-08,D,N2_VS,CF,0.004272970335565032,NA
+2021-04-08,D,PMMOV,CF,7781.665621028204,NA
+2021-04-08,D,PMMOV_FLOW,CF,437075784.36841106,NA
+2021-04-08,D,PMMOV_FLOW_PC,CF,54634.47304605138,NA
+2021-04-08,D,PMMOV_TS,CF,7.211923652482153,NA
+2021-04-08,D,PMMOV_VS,CF,17.065056186465412,NA
+2021-04-08,D,TS,MG_PER_L,1078.9999999999945,NA
+2021-04-08,D,VS,MG_PER_L,455.99999999999864,NA
+2021-04-08,D,FLOW,RATE_L_PER_S,56.16738185039869,NA
+2021-04-08,D,N1,TOTAL,5.868379902231574,TOTAL = UF + CF
+2021-04-08,D,N1_FLOW,TOTAL,329611.53481184616,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N1_FLOW_PC,TOTAL,41.201441851480766,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N1_PMMOV,TOTAL,2.252602241256458e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N1_TS,TOTAL,0.005438720947387955,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N1_VS,TOTAL,0.012869254171560507,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N2,TOTAL,3.147937575718108,TOTAL = UF + CF
+2021-04-08,D,N2_FLOW,TOTAL,176811.4118565773,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N2_FLOW_PC,TOTAL,22.101426482072164,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N2_PMMOV,TOTAL,1.2083490429277612e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N2_TS,TOTAL,0.002917458364891681,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N2_VS,TOTAL,0.006903371876574819,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,PMMOV,TOTAL,26051.55848090742,TOTAL = UF + CF
+2021-04-08,D,PMMOV_FLOW,TOTAL,1463247832.9951196,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,PMMOV_FLOW_PC,TOTAL,182905.97912438994,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,PMMOV_TS,TOTAL,24.14416912039625,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,PMMOV_VS,TOTAL,57.130610703744516,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,D,N1,UF,2.710512430417261,NA
+2021-04-08,D,N1_FLOW,UF,152242.38668949853,NA
+2021-04-08,D,N1_FLOW_PC,UF,19.030298336187315,NA
+2021-04-08,D,N1_PMMOV,UF,1.483595142678456e-4,NA
+2021-04-08,D,N1_TS,UF,0.002512059713083665,NA
+2021-04-08,D,N1_VS,UF,0.005944106207055415,NA
+2021-04-08,D,N2,UF,1.199463102700459,NA
+2021-04-08,D,N2_FLOW,UF,67370.70210484066,NA
+2021-04-08,D,N2_FLOW_PC,UF,8.421337763105083,NA
+2021-04-08,D,N2_PMMOV,UF,6.565244316974001e-5,NA
+2021-04-08,D,N2_TS,UF,0.0011116432833183179,NA
+2021-04-08,D,N2_VS,UF,0.002630401541009786,NA
+2021-04-08,D,PMMOV,UF,18269.892859879215,NA
+2021-04-08,D,PMMOV_FLOW,UF,1026172048.6267085,NA
+2021-04-08,D,PMMOV_FLOW_PC,UF,128271.50607833857,NA
+2021-04-08,D,PMMOV_TS,UF,16.932245467914093,NA
+2021-04-08,D,PMMOV_VS,UF,40.065554517279104,NA
+2021-04-08,WWTP,N1,CF,49.05427377858018,NA
+2021-04-08,WWTP,N1_FLOW,CF,239397259.3636817,NA
+2021-04-08,WWTP,N1_FLOW_PC,CF,263.0739113886612,NA
+2021-04-08,WWTP,N1_PMMOV,CF,9.652871635364883e-4,NA
+2021-04-08,WWTP,N1_TS,CF,0.0433341641153537,NA
+2021-04-08,WWTP,N1_VS,CF,0.14385417530375413,NA
+2021-04-08,WWTP,N2,CF,15.726753407240276,NA
+2021-04-08,WWTP,N2_FLOW,CF,76750533.12124963,NA
+2021-04-08,WWTP,N2_FLOW_PC,CF,84.3412451881864,NA
+2021-04-08,WWTP,N2_PMMOV,CF,3.094701443677587e-4,NA
+2021-04-08,WWTP,N2_TS,CF,0.013892891702509137,NA
+2021-04-08,WWTP,N2_VS,CF,0.046119511458182605,NA
+2021-04-08,WWTP,PMMOV,CF,50818.32187518353,NA
+2021-04-08,WWTP,PMMOV_FLOW,CF,248006260112.9082,NA
+2021-04-08,WWTP,PMMOV_FLOW_PC,CF,272534.35177242657,NA
+2021-04-08,WWTP,PMMOV_TS,CF,44.892510490445005,NA
+2021-04-08,WWTP,PMMOV_VS,CF,149.02733687737097,NA
+2021-04-08,WWTP,TS,MG_PER_L,1131.9999999999952,NA
+2021-04-08,WWTP,VS,MG_PER_L,341.00000000000017,NA
+2021-04-08,WWTP,FLOW,RATE_L_PER_S,4880.252849002849,NA
+2021-04-08,WWTP,N1,TOTAL,64.70971006170357,TOTAL = UF + CF
+2021-04-08,WWTP,N1_FLOW,TOTAL,315799746.88677716,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N1_FLOW_PC,TOTAL,347.03268888656834,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N1_PMMOV,TOTAL,9.434404315888571e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N1_TS,TOTAL,0.05716405482482672,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N1_VS,TOTAL,0.18976454563549425,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N2,TOTAL,27.295629632736183,TOTAL = UF + CF
+2021-04-08,WWTP,N2_FLOW,TOTAL,133209574.28048734,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N2_FLOW_PC,TOTAL,146.3841475609751,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N2_PMMOV,TOTAL,3.9795883147432956e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N2_TS,TOTAL,0.024112747025385423,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N2_VS,TOTAL,0.08004583470010607,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,PMMOV,TOTAL,68589.07875373258,TOTAL = UF + CF
+2021-04-08,WWTP,PMMOV_FLOW,TOTAL,334732046998.38416,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,PMMOV_FLOW_PC,TOTAL,367837.41428393865,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,PMMOV_TS,TOTAL,60.591058969728685,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,PMMOV_VS,TOTAL,201.14099341270543,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-08,WWTP,N1,UF,15.655436283123388,NA
+2021-04-08,WWTP,N1_FLOW,UF,76402487.52309547,NA
+2021-04-08,WWTP,N1_FLOW_PC,UF,83.958777497907107,NA
+2021-04-08,WWTP,N1_PMMOV,UF,8.809662070173811e-4,NA
+2021-04-08,WWTP,N1_TS,UF,0.013829890709473016,NA
+2021-04-08,WWTP,N1_VS,UF,0.04591037033174012,NA
+2021-04-08,WWTP,N2,UF,11.568876225495908,NA
+2021-04-08,WWTP,N2_FLOW,UF,56459041.15923773,NA
+2021-04-08,WWTP,N2_FLOW_PC,UF,62.04290237278871,NA
+2021-04-08,WWTP,N2_PMMOV,UF,6.510063867600718e-4,NA
+2021-04-08,WWTP,N2_TS,UF,0.010219855322876286,NA
+2021-04-08,WWTP,N2_VS,UF,0.03392632324192347,NA
+2021-04-08,WWTP,PMMOV,UF,17770.756878549048,NA
+2021-04-08,WWTP,PMMOV_FLOW,UF,86725786885.47597,NA
+2021-04-08,WWTP,PMMOV_FLOW_PC,UF,95303.06251151205,NA
+2021-04-08,WWTP,PMMOV_TS,UF,15.698548479283676,NA
+2021-04-08,WWTP,PMMOV_VS,UF,52.11365653533442,NA
+2021-04-14,D,N1,CF,34.34272614644916,NA
+2021-04-14,D,N1_FLOW,CF,815196.4926540497,NA
+2021-04-14,D,N1_FLOW_PC,CF,101.8995615817562,NA
+2021-04-14,D,N1_PMMOV,CF,0.0018056451715723703,NA
+2021-04-14,D,N1_TS,CF,0.016214696008710703,NA
+2021-04-14,D,N1_VS,CF,0.024322044013066056,NA
+2021-04-14,D,N2,CF,11.949482559589498,NA
+2021-04-14,D,N2_FLOW,CF,283645.98168672976,NA
+2021-04-14,D,N2_FLOW_PC,CF,35.45574771084122,NA
+2021-04-14,D,N2_PMMOV,CF,6.282706094589382e-4,NA
+2021-04-14,D,N2_TS,CF,0.0056418708968789125,NA
+2021-04-14,D,N2_VS,CF,0.00846280634531837,NA
+2021-04-14,D,PMMOV,CF,19019.6427776246,NA
+2021-04-14,D,PMMOV_FLOW,CF,451471034.00396764,NA
+2021-04-14,D,PMMOV_FLOW_PC,CF,56433.87925049596,NA
+2021-04-14,D,PMMOV_TS,CF,8.980001311437515,NA
+2021-04-14,D,PMMOV_VS,CF,13.470001967156275,NA
+2021-04-14,D,TS,MG_PER_L,2117.999999999993,NA
+2021-04-14,D,VS,MG_PER_L,1411.9999999999955,NA
+2021-04-14,D,FLOW,RATE_L_PER_S,23.73709324,NA
+2021-04-14,D,N1,TOTAL,98.01992480827363,TOTAL = UF + CF
+2021-04-14,D,N1_FLOW,TOTAL,2326708.0945517803,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N1_FLOW_PC,TOTAL,290.8385118189725,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N1_PMMOV,TOTAL,0.00341490763749538,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N1_TS,TOTAL,0.04627947346944001,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N1_VS,TOTAL,0.06941921020416002,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N2,TOTAL,55.116428923752764,TOTAL = UF + CF
+2021-04-14,D,N2_FLOW,TOTAL,1308303.8124189524,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N2_FLOW_PC,TOTAL,163.53797655236903,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N2_PMMOV,TOTAL,0.0019201964748631146,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N2_TS,TOTAL,0.02602286540309393,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N2_VS,TOTAL,0.039034298104640895,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,PMMOV,TOTAL,28703.536146050814,TOTAL = UF + CF
+2021-04-14,D,PMMOV_FLOW,TOTAL,681338513.8165184,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,PMMOV_FLOW_PC,TOTAL,85167.31422706481,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,PMMOV_TS,TOTAL,13.552188926369643,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,PMMOV_VS,TOTAL,20.328283389554468,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,D,N1,UF,63.67719866182446,NA
+2021-04-14,D,N1_FLOW,UF,1511511.6018977305,NA
+2021-04-14,D,N1_FLOW_PC,UF,188.93895023721632,NA
+2021-04-14,D,N1_PMMOV,UF,0.006575578255481454,NA
+2021-04-14,D,N1_TS,UF,0.030064777460729306,NA
+2021-04-14,D,N1_VS,UF,0.045097166191093954,NA
+2021-04-14,D,N2,UF,43.166946364163266,NA
+2021-04-14,D,N2_FLOW,UF,1024657.8307322224,NA
+2021-04-14,D,N2_FLOW_PC,UF,128.0822288415278,NA
+2021-04-14,D,N2_PMMOV,UF,0.004457602404514971,NA
+2021-04-14,D,N2_TS,UF,0.020380994506215017,NA
+2021-04-14,D,N2_VS,UF,0.030571491759322524,NA
+2021-04-14,D,PMMOV,UF,9683.893368426214,NA
+2021-04-14,D,PMMOV_FLOW,UF,229867479.8125507,NA
+2021-04-14,D,PMMOV_FLOW_PC,UF,28733.43497656884,NA
+2021-04-14,D,PMMOV_TS,UF,4.572187614932127,NA
+2021-04-14,D,PMMOV_VS,UF,6.85828142239819,NA
+2021-04-14,WWTP,N1,CF,42.58826925029353,NA
+2021-04-14,WWTP,N1_FLOW,CF,187859312.67857844,NA
+2021-04-14,WWTP,N1_FLOW_PC,CF,206.43880514129498,NA
+2021-04-14,WWTP,N1_PMMOV,CF,0.0024444217281709237,NA
+2021-04-14,WWTP,N1_TS,CF,0.04146861660203866,NA
+2021-04-14,WWTP,N1_VS,CF,0.12489228519147653,NA
+2021-04-14,WWTP,N2,CF,15.972111592894978,NA
+2021-04-14,WWTP,N2_FLOW,CF,70453905.70423625,NA
+2021-04-14,WWTP,N2_FLOW_PC,CF,77.42187440025963,NA
+2021-04-14,WWTP,N2_PMMOV,CF,9.167448527430847e-4,NA
+2021-04-14,WWTP,N2_TS,CF,0.01555220213524347,NA
+2021-04-14,WWTP,N2_VS,CF,0.046839036929310754,NA
+2021-04-14,WWTP,PMMOV,CF,17422.635693130112,NA
+2021-04-14,WWTP,PMMOV_FLOW,CF,76852251194.45615,NA
+2021-04-14,WWTP,PMMOV_FLOW_PC,CF,84453.02329061115,NA
+2021-04-14,WWTP,PMMOV_TS,CF,16.9645917167772,NA
+2021-04-14,WWTP,PMMOV_VS,CF,51.09277329363666,NA
+2021-04-14,WWTP,TS,MG_PER_L,1026.9999999999957,NA
+2021-04-14,WWTP,VS,MG_PER_L,341.0000000000002,NA
+2021-04-14,WWTP,FLOW,RATE_L_PER_S,4411.057692307692,NA
+2021-04-14,WWTP,N1,TOTAL,61.55441171055153,TOTAL = UF + CF
+2021-04-14,WWTP,N1_FLOW,TOTAL,271520061.27130306,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N1_FLOW_PC,TOTAL,298.3736937047286,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N1_PMMOV,TOTAL,0.0023769025579570423,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N1_TS,TOTAL,0.05993613603753825,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N1_VS,TOTAL,0.18051147129193984,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N2,TOTAL,35.82986981279793,TOTAL = UF + CF
+2021-04-14,WWTP,N2_FLOW,TOTAL,158047622.8521255,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N2_FLOW_PC,TOTAL,173.67870643090714,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N2_PMMOV,TOTAL,0.001383558169799039,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N2_TS,TOTAL,0.0348878966044772,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N2_VS,TOTAL,0.1050729320023399,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,PMMOV,TOTAL,25896.90162286577,TOTAL = UF + CF
+2021-04-14,WWTP,PMMOV_FLOW,TOTAL,114232727110.47763,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,PMMOV_FLOW_PC,TOTAL,125530.46935217323,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,PMMOV_TS,TOTAL,25.21606779246921,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,PMMOV_VS,TOTAL,75.94399302893183,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-14,WWTP,N1,UF,18.966142460258,NA
+2021-04-14,WWTP,N1_FLOW,UF,83660748.59272459,NA
+2021-04-14,WWTP,N1_FLOW_PC,UF,91.93488856343362,NA
+2021-04-14,WWTP,N1_PMMOV,UF,0.0022380867696996636,NA
+2021-04-14,WWTP,N1_TS,UF,0.01846751943549959,NA
+2021-04-14,WWTP,N1_VS,UF,0.0556191861004633,NA
+2021-04-14,WWTP,N2,UF,19.85775821990295,NA
+2021-04-14,WWTP,N2_FLOW,UF,87593717.14788923,NA
+2021-04-14,WWTP,N2_FLOW_PC,UF,96.2568320306475,NA
+2021-04-14,WWTP,N2_PMMOV,UF,0.002343301282323858,NA
+2021-04-14,WWTP,N2_TS,UF,0.019335694469233725,NA
+2021-04-14,WWTP,N2_VS,UF,0.058233895073029146,NA
+2021-04-14,WWTP,PMMOV,UF,8474.265929735659,NA
+2021-04-14,WWTP,PMMOV_FLOW,UF,37380475916.02148,NA
+2021-04-14,WWTP,PMMOV_FLOW_PC,UF,41077.44606156206,NA
+2021-04-14,WWTP,PMMOV_TS,UF,8.25147607569201,NA
+2021-04-14,WWTP,PMMOV_VS,UF,24.85121973529517,NA
+2021-04-21,D,N1,CF,21.543644018167186,grab sample
+2021-04-21,D,N1_FLOW,CF,1063255.8672630817,grab sample
+2021-04-21,D,N1_FLOW_PC,CF,132.9069834078852,grab sample
+2021-04-21,D,N1_PMMOV,CF,0.0017788133411993107,grab sample
+2021-04-21,D,N1_TS,CF,0.022050812710508863,grab sample
+2021-04-21,D,N1_VS,CF,0.06608479760173991,grab sample
+2021-04-21,D,N2,CF,40.22783718714223,grab sample
+2021-04-21,D,N2_FLOW,CF,1985387.6103998027,grab sample
+2021-04-21,D,N2_FLOW_PC,CF,248.17345129997534,grab sample
+2021-04-21,D,N2_PMMOV,CF,0.0033215278443952906,grab sample
+2021-04-21,D,N2_TS,CF,0.04117485894282721,grab sample
+2021-04-21,D,N2_VS,CF,0.12339827358019101,grab sample
+2021-04-21,D,PMMOV,CF,12111.244906473457,grab sample
+2021-04-21,D,PMMOV_FLOW,CF,597733243.0766534,grab sample
+2021-04-21,D,PMMOV_FLOW_PC,CF,74716.65538458167,grab sample
+2021-04-21,D,PMMOV_TS,CF,12.396361214404752,grab sample
+2021-04-21,D,PMMOV_VS,CF,37.151057995317395,grab sample
+2021-04-21,D,TS,MG_PER_L,977.0000000000011,NA
+2021-04-21,D,VS,MG_PER_L,325.99999999999966,NA
+2021-04-21,D,FLOW,RATE_L_PER_S,49.35357576306339,NA
+2021-04-21,D,N1,TOTAL,53.69568648719917,TOTAL = UF + CF
+2021-04-21,D,N1_FLOW,TOTAL,2650074.131195683,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N1_FLOW_PC,TOTAL,331.2592663994604,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N1_PMMOV,TOTAL,0.0026416343512585708,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N1_TS,TOTAL,0.05495976098996838,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N1_VS,TOTAL,0.16471069474600988,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N2,TOTAL,56.21636278981061,TOTAL = UF + CF
+2021-04-21,D,N2_FLOW,TOTAL,2774478.5200707754,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N2_FLOW_PC,TOTAL,346.80981500884695,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N2_PMMOV,TOTAL,0.002765642545305391,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N2_TS,TOTAL,0.057539777676366984,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N2_VS,TOTAL,0.172442830643591,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,PMMOV,TOTAL,20326.691489916684,TOTAL = UF + CF
+2021-04-21,D,PMMOV_FLOW,TOTAL,1003194908.4600189,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,PMMOV_FLOW_PC,TOTAL,125399.36355750237,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,PMMOV_TS,TOTAL,20.805211350989417,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,PMMOV_VS,TOTAL,62.35181438624756,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,D,N1,UF,32.15204246903198,grab sample
+2021-04-21,D,N1_FLOW,UF,1586818.2639326018,grab sample
+2021-04-21,D,N1_FLOW_PC,UF,198.35228299157524,grab sample
+2021-04-21,D,N1_PMMOV,UF,0.003913608608183116,grab sample
+2021-04-21,D,N1_TS,UF,0.03290894827945951,grab sample
+2021-04-21,D,N1_VS,UF,0.09862589714426999,grab sample
+2021-04-21,D,N2,UF,15.988525602668382,grab sample
+2021-04-21,D,N2_FLOW,UF,789090.9096709727,grab sample
+2021-04-21,D,N2_FLOW_PC,UF,98.63636370887158,grab sample
+2021-04-21,D,N2_PMMOV,UF,0.0019461541670650522,grab sample
+2021-04-21,D,N2_TS,UF,0.016364918733539777,grab sample
+2021-04-21,D,N2_VS,UF,0.049044557063399996,grab sample
+2021-04-21,D,PMMOV,UF,8215.446583443227,grab sample
+2021-04-21,D,PMMOV_FLOW,UF,405461665.3833656,grab sample
+2021-04-21,D,PMMOV_FLOW_PC,UF,50682.7081729207,grab sample
+2021-04-21,D,PMMOV_TS,UF,8.408850136584665,grab sample
+2021-04-21,D,PMMOV_VS,UF,25.20075639093017,grab sample
+2021-04-21,WWTP,N1,CF,27.868386836754773,grab sample
+2021-04-21,WWTP,N1_FLOW,CF,93217173.56275612,grab sample
+2021-04-21,WWTP,N1_FLOW_PC,CF,102.43645446456716,grab sample
+2021-04-21,WWTP,N1_PMMOV,CF,0.002432779264139518,grab sample
+2021-04-21,WWTP,N1_TS,CF,0.028264084012935807,grab sample
+2021-04-21,WWTP,N1_VS,CF,0.09048177544400854,grab sample
+2021-04-21,WWTP,N2,CF,24.023270120588762,grab sample
+2021-04-21,WWTP,N2_FLOW,CF,80355614.1765064,grab sample
+2021-04-21,WWTP,N2_FLOW_PC,CF,88.3028727214356,grab sample
+2021-04-21,WWTP,N2_PMMOV,CF,0.0020971186365588866,grab sample
+2021-04-21,WWTP,N2_TS,CF,0.02436437131905548,grab sample
+2021-04-21,WWTP,N2_VS,CF,0.07799763026165142,grab sample
+2021-04-21,WWTP,PMMOV,CF,11455.370097710824,grab sample
+2021-04-21,WWTP,PMMOV_FLOW,CF,38317152294.42625,grab sample
+2021-04-21,WWTP,PMMOV_FLOW_PC,CF,42106.76076310577,grab sample
+2021-04-21,WWTP,PMMOV_TS,CF,11.618022411471395,grab sample
+2021-04-21,WWTP,PMMOV_VS,CF,37.19276005750248,grab sample
+2021-04-21,WWTP,TS,MG_PER_L,986.0000000000024,NA
+2021-04-21,WWTP,VS,MG_PER_L,308.0000000000016,NA
+2021-04-21,WWTP,FLOW,RATE_L_PER_S,3344.9074074074074,NA
+2021-04-21,WWTP,N1,TOTAL,39.85346421412957,TOTAL = UF + CF
+2021-04-21,WWTP,N1_FLOW,TOTAL,133306147.66068803,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N1_FLOW_PC,TOTAL,146.49027215460222,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N1_PMMOV,TOTAL,0.002170349351087665,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N1_TS,TOTAL,0.04041933490276823,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N1_VS,TOTAL,0.12939436433158885,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N2,TOTAL,37.00069616571316,TOTAL = UF + CF
+2021-04-21,WWTP,N2_FLOW,TOTAL,123763902.6839248,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N2_FLOW_PC,TOTAL,136.00428866365363,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N2_PMMOV,TOTAL,0.002014992636062398,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N2_TS,TOTAL,0.03752606101999297,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N2_VS,TOTAL,0.12013213040815898,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,PMMOV,TOTAL,18362.695477646084,TOTAL = UF + CF
+2021-04-21,WWTP,PMMOV_FLOW,TOTAL,61421516123.14489,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,PMMOV_FLOW_PC,TOTAL,67496.17156389548,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,PMMOV_TS,TOTAL,18.623423405320526,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,PMMOV_VS,TOTAL,59.619141161188274,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-21,WWTP,N1,UF,11.985077377374797,grab sample
+2021-04-21,WWTP,N1_FLOW,UF,40088974.09793191,grab sample
+2021-04-21,WWTP,N1_FLOW_PC,UF,44.05381769003506,grab sample
+2021-04-21,WWTP,N1_PMMOV,UF,0.0017351256409882823,grab sample
+2021-04-21,WWTP,N1_TS,UF,0.012155250889832422,grab sample
+2021-04-21,WWTP,N1_VS,UF,0.038912588887580306,grab sample
+2021-04-21,WWTP,N2,UF,12.977426045124398,grab sample
+2021-04-21,WWTP,N2_FLOW,UF,43408288.50741842,grab sample
+2021-04-21,WWTP,N2_FLOW_PC,UF,47.70141594221804,grab sample
+2021-04-21,WWTP,N2_PMMOV,UF,0.0018787917654526408,grab sample
+2021-04-21,WWTP,N2_TS,UF,0.013161689700937491,grab sample
+2021-04-21,WWTP,N2_VS,UF,0.04213450014650757,grab sample
+2021-04-21,WWTP,PMMOV,UF,6907.325379935259,grab sample
+2021-04-21,WWTP,PMMOV_FLOW,UF,23104363828.71863,grab sample
+2021-04-21,WWTP,PMMOV_FLOW_PC,UF,25389.410800789705,grab sample
+2021-04-21,WWTP,PMMOV_TS,UF,7.00540099384913,grab sample
+2021-04-21,WWTP,PMMOV_VS,UF,22.426381103685788,grab sample
+2021-04-28,D,N1,CF,12.787775342118298,NA
+2021-04-28,D,N1_FLOW,CF,306355.6781123958,NA
+2021-04-28,D,N1_FLOW_PC,CF,38.29445976404948,NA
+2021-04-28,D,N1_PMMOV,CF,0.0018962041391236942,NA
+2021-04-28,D,N1_TS,CF,0.012982513037683547,NA
+2021-04-28,D,N1_VS,CF,0.0291958341144253,NA
+2021-04-28,D,N2,CF,13.05566192685767,NA
+2021-04-28,D,N2_FLOW,CF,312773.4149062805,NA
+2021-04-28,D,N2_FLOW_PC,CF,39.09667686328507,NA
+2021-04-28,D,N2_PMMOV,CF,0.0019359270492631496,NA
+2021-04-28,D,N2_TS,CF,0.013254479113561082,NA
+2021-04-28,D,N2_VS,CF,0.029807447321592816,NA
+2021-04-28,D,PMMOV,CF,6743.881145638676,NA
+2021-04-28,D,PMMOV_FLOW,CF,161562603.8312384,NA
+2021-04-28,D,PMMOV_FLOW_PC,CF,20195.325478904797,NA
+2021-04-28,D,PMMOV_TS,CF,6.846579843287993,NA
+2021-04-28,D,PMMOV_VS,CF,15.396988916983258,NA
+2021-04-28,D,TS,MG_PER_L,985.0000000000003,NA
+2021-04-28,D,VS,MG_PER_L,438.00000000000057,NA
+2021-04-28,D,FLOW,RATE_L_PER_S,23.95691744,NA
+2021-04-28,D,N1,TOTAL,139.8627753421183,TOTAL = UF + CF
+2021-04-28,D,N1_FLOW,TOTAL,3350680.9618003964,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N1_FLOW_PC,TOTAL,418.83512022504954,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N1_PMMOV,TOTAL,0.006478405380911528,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N1_TS,TOTAL,0.1419926653219475,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N1_VS,TOTAL,0.31932140489068067,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N2,TOTAL,39.74461308672681,TOTAL = UF + CF
+2021-04-28,D,N2_FLOW,TOTAL,952158.4144034578,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N2_FLOW_PC,TOTAL,119.01980180043222,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N2_PMMOV,TOTAL,0.001840959573792753,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N2_TS,TOTAL,0.04034986100175309,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N2_VS,TOTAL,0.09074112576878254,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,PMMOV,TOTAL,21589.07433520921,TOTAL = UF + CF
+2021-04-28,D,PMMOV_FLOW,TOTAL,517207671.45462996,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,PMMOV_FLOW_PC,TOTAL,64650.95893182875,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,PMMOV_TS,TOTAL,21.917841964679393,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,PMMOV_VS,TOTAL,49.290124052989,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,D,N1,UF,127.075,NA
+2021-04-28,D,N1_FLOW,UF,3044325.283688,NA
+2021-04-28,D,N1_FLOW_PC,UF,380.540660461,NA
+2021-04-28,D,N1_PMMOV,UF,0.008560009854858362,NA
+2021-04-28,D,N1_TS,UF,0.1290101522842639,NA
+2021-04-28,D,N1_VS,UF,0.29012557077625534,NA
+2021-04-28,D,N2,UF,26.688951159869138,NA
+2021-04-28,D,N2_FLOW,UF,639384.9994971772,NA
+2021-04-28,D,N2_FLOW_PC,UF,79.92312493714715,NA
+2021-04-28,D,N2_PMMOV,UF,0.001797817705640868,NA
+2021-04-28,D,N2_TS,UF,0.027095381888192008,NA
+2021-04-28,D,N2_VS,UF,0.060933678447189735,NA
+2021-04-28,D,PMMOV,UF,14845.193189570535,NA
+2021-04-28,D,PMMOV_FLOW,UF,355645067.62339157,NA
+2021-04-28,D,PMMOV_FLOW_PC,UF,44455.63345292395,NA
+2021-04-28,D,PMMOV_TS,UF,15.0712621213914,NA
+2021-04-28,D,PMMOV_VS,UF,33.893135136005746,NA
+2021-04-28,WWTP,N1,CF,126.88811724667325,NA
+2021-04-28,WWTP,N1_FLOW,CF,510353219.00804996,NA
+2021-04-28,WWTP,N1_FLOW_PC,CF,560.8277131956593,NA
+2021-04-28,WWTP,N1_PMMOV,CF,0.011731130460015043,NA
+2021-04-28,WWTP,N1_TS,CF,0.12501292339573755,NA
+2021-04-28,WWTP,N1_VS,CF,0.35051966090241216,NA
+2021-04-28,WWTP,N2,CF,9.299180650713692,NA
+2021-04-28,WWTP,N2_FLOW,CF,37401979.65112082,NA
+2021-04-28,WWTP,N2_FLOW_PC,CF,41.10107653969321,NA
+2021-04-28,WWTP,N2_PMMOV,CF,8.597329974775871e-4,NA
+2021-04-28,WWTP,N2_TS,CF,0.009161754335678542,NA
+2021-04-28,WWTP,N2_VS,CF,0.025688344338988093,NA
+2021-04-28,WWTP,PMMOV,CF,10816.358890489275,NA
+2021-04-28,WWTP,PMMOV_FLOW,CF,43504180671.041275,NA
+2021-04-28,WWTP,PMMOV_FLOW_PC,CF,47806.791946199206,NA
+2021-04-28,WWTP,PMMOV_TS,CF,10.656511222156952,NA
+2021-04-28,WWTP,PMMOV_VS,CF,29.879444448865392,NA
+2021-04-28,WWTP,TS,MG_PER_L,1014.999999999997,NA
+2021-04-28,WWTP,VS,MG_PER_L,362.0000000000001,NA
+2021-04-28,WWTP,FLOW,RATE_L_PER_S,4022.0725949925813,NA
+2021-04-28,WWTP,N1,TOTAL,187.05919629772018,TOTAL = UF + CF
+2021-04-28,WWTP,N1_FLOW,TOTAL,752365667.0703981,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N1_FLOW_PC,TOTAL,826.7754583191188,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N1_PMMOV,TOTAL,0.008074464286158623,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N1_TS,TOTAL,0.18429477467755737,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N1_VS,TOTAL,0.5167381113196688,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N2,TOTAL,19.30346907373449,TOTAL = UF + CF
+2021-04-28,WWTP,N2_FLOW,TOTAL,77639953.94975431,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N2_FLOW_PC,TOTAL,85.31863071401573,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N2_PMMOV,TOTAL,8.332398231133437e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N2_TS,TOTAL,0.019018196131758175,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N2_VS,TOTAL,0.05332450020368642,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,PMMOV,TOTAL,23166.762483348906,TOTAL = UF + CF
+2021-04-28,WWTP,PMMOV_FLOW,TOTAL,93178400498.9799,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,PMMOV_FLOW_PC,TOTAL,102393.84670217572,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,PMMOV_TS,TOTAL,22.824396535319185,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,PMMOV_VS,TOTAL,63.996581445715194,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-04-28,WWTP,N1,UF,60.17107905104694,NA
+2021-04-28,WWTP,N1_FLOW,UF,242012448.06234813,NA
+2021-04-28,WWTP,N1_FLOW_PC,UF,265.94774512345947,NA
+2021-04-28,WWTP,N1_PMMOV,UF,0.004871992935181063,NA
+2021-04-28,WWTP,N1_TS,UF,0.059281851281819814,NA
+2021-04-28,WWTP,N1_VS,UF,0.1662184504172567,NA
+2021-04-28,WWTP,N2,UF,10.0042884230208,NA
+2021-04-28,WWTP,N2_FLOW,UF,40237974.2986335,NA
+2021-04-28,WWTP,N2_FLOW_PC,UF,44.21755417432253,NA
+2021-04-28,WWTP,N2_PMMOV,UF,8.100373682366756e-4,NA
+2021-04-28,WWTP,N2_TS,UF,0.009856441796079635,NA
+2021-04-28,WWTP,N2_VS,UF,0.027636155864698333,NA
+2021-04-28,WWTP,PMMOV,UF,12350.403592859631,NA
+2021-04-28,WWTP,PMMOV_FLOW,UF,49674219827.93864,NA
+2021-04-28,WWTP,PMMOV_FLOW_PC,UF,54587.054755976525,NA
+2021-04-28,WWTP,PMMOV_TS,UF,12.167885313162234,NA
+2021-04-28,WWTP,PMMOV_VS,UF,34.1171369968498,NA
+2021-05-05,D,N1,CF,18.17992839237423,NA
+2021-05-05,D,N1_FLOW,CF,457250.5222540682,NA
+2021-05-05,D,N1_FLOW_PC,CF,57.15631528175852,NA
+2021-05-05,D,N1_PMMOV,CF,0.00206855243962015,NA
+2021-05-05,D,N1_TS,CF,0.008863933882191246,NA
+2021-05-05,D,N1_VS,CF,0.012948666946135525,NA
+2021-05-05,D,N2,CF,10.747335652869728,NA
+2021-05-05,D,N2_FLOW,CF,270310.46184845123,NA
+2021-05-05,D,N2_FLOW_PC,CF,33.7888077310564,NA
+2021-05-05,D,N2_PMMOV,CF,0.0012228556078078675,NA
+2021-05-05,D,N2_TS,CF,0.00524004663718661,NA
+2021-05-05,D,N2_VS,CF,0.007654797473553957,NA
+2021-05-05,D,PMMOV,CF,8788.720094382825,NA
+2021-05-05,D,PMMOV_FLOW,CF,221048552.3577219,NA
+2021-05-05,D,PMMOV_FLOW_PC,CF,27631.069044715237,NA
+2021-05-05,D,PMMOV_TS,CF,4.285090245920445,NA
+2021-05-05,D,PMMOV_VS,CF,6.2597721469963306,NA
+2021-05-05,D,TS,MG_PER_L,2050.999999999998,NA
+2021-05-05,D,VS,MG_PER_L,1403.9999999999964,NA
+2021-05-05,D,FLOW,RATE_L_PER_S,25.15139292,NA
+2021-05-05,D,N1,TOTAL,24.732429012656112,TOTAL = UF + CF
+2021-05-05,D,N1_FLOW,TOTAL,622055.0399633215,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N1_FLOW_PC,TOTAL,77.75687999541519,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N1_PMMOV,TOTAL,0.0011246475781617033,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N1_TS,TOTAL,0.012058717217287242,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N1_VS,TOTAL,0.01761569017995454,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N2,TOTAL,16.41996584318164,TOTAL = UF + CF
+2021-05-05,D,N2_FLOW,TOTAL,412985.0126548405,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N2_FLOW_PC,TOTAL,51.62312658185506,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N2_PMMOV,TOTAL,7.466583573163125e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N2_TS,TOTAL,0.008005834150746785,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N2_VS,TOTAL,0.01169513236693852,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,PMMOV,TOTAL,21991.270414757477,TOTAL = UF + CF
+2021-05-05,D,PMMOV_FLOW,TOTAL,553111083.0115366,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,PMMOV_FLOW_PC,TOTAL,69138.88537644208,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,PMMOV_TS,TOTAL,10.722218632256215,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,PMMOV_VS,TOTAL,15.663298016209069,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,D,N1,UF,6.552500620281881,NA
+2021-05-05,D,N1_FLOW,UF,164804.5177092533,NA
+2021-05-05,D,N1_FLOW_PC,UF,20.600564713656663,NA
+2021-05-05,D,N1_PMMOV,UF,4.963056728645696e-4,NA
+2021-05-05,D,N1_TS,UF,0.0031947833350959957,NA
+2021-05-05,D,N1_VS,UF,0.0046670232338190155,NA
+2021-05-05,D,N2,UF,5.672630190311912,NA
+2021-05-05,D,N2_FLOW,UF,142674.55080638928,NA
+2021-05-05,D,N2_FLOW_PC,UF,17.83431885079866,NA
+2021-05-05,D,N2_PMMOV,UF,4.296616981309818e-4,NA
+2021-05-05,D,N2_TS,UF,0.002765787513560174,NA
+2021-05-05,D,N2_VS,UF,0.004040334893384563,NA
+2021-05-05,D,PMMOV,UF,13202.550320374654,NA
+2021-05-05,D,PMMOV_FLOW,UF,332062530.6538148,NA
+2021-05-05,D,PMMOV_FLOW_PC,UF,41507.81633172685,NA
+2021-05-05,D,PMMOV_TS,UF,6.437128386335771,NA
+2021-05-05,D,PMMOV_VS,UF,9.403525869212741,NA
+2021-05-05,WWTP,N1,CF,16.765484813813547,NA
+2021-05-05,WWTP,N1_FLOW,CF,79307754.6385395,NA
+2021-05-05,WWTP,N1_FLOW_PC,CF,87.15137872366978,NA
+2021-05-05,WWTP,N1_PMMOV,CF,0.0034336991729438074,NA
+2021-05-05,WWTP,N1_TS,CF,0.016167294902423877,NA
+2021-05-05,WWTP,N1_VS,CF,0.04931024945239307,NA
+2021-05-05,WWTP,N2,CF,12.704714196184423,NA
+2021-05-05,WWTP,N2_FLOW,CF,60098611.36813585,NA
+2021-05-05,WWTP,N2_FLOW_PC,CF,66.04243007487456,NA
+2021-05-05,WWTP,N2_PMMOV,CF,0.002602022375874436,NA
+2021-05-05,WWTP,N2_TS,CF,0.012251411953890486,NA
+2021-05-05,WWTP,N2_VS,CF,0.03736680645936616,NA
+2021-05-05,WWTP,PMMOV,CF,4882.630646830958,NA
+2021-05-05,WWTP,PMMOV_FLOW,CF,23096884917.4247,NA
+2021-05-05,WWTP,PMMOV_FLOW_PC,CF,25381.19221695022,NA
+2021-05-05,WWTP,PMMOV_TS,CF,4.708419138699095,NA
+2021-05-05,WWTP,PMMOV_VS,CF,14.360678373032309,NA
+2021-05-05,WWTP,TS,MG_PER_L,1036.999999999999,NA
+2021-05-05,WWTP,VS,MG_PER_L,339.99999999999807,NA
+2021-05-05,WWTP,FLOW,RATE_L_PER_S,4730.418208556405,NA
+2021-05-05,WWTP,N1,TOTAL,23.293677797425236,TOTAL = UF + CF
+2021-05-05,WWTP,N1_FLOW,TOTAL,110188837.5971864,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N1_FLOW_PC,TOTAL,121.08663472218286,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N1_PMMOV,TOTAL,0.0017304849476602194,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N1_TS,TOTAL,0.0224625629676232,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N1_VS,TOTAL,0.06851081705125109,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N2,TOTAL,19.399664992313376,TOTAL = UF + CF
+2021-05-05,WWTP,N2_FLOW,TOTAL,91768528.51953344,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N2_FLOW_PC,TOTAL,100.84453683465213,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N2_PMMOV,TOTAL,0.001441199133550304,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N2_TS,TOTAL,0.01870748793858572,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N2_VS,TOTAL,0.05705783821268672,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,PMMOV,TOTAL,13460.7803603958,TOTAL = UF + CF
+2021-05-05,WWTP,PMMOV_FLOW,TOTAL,63675120518.19474,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,PMMOV_FLOW_PC,TOTAL,69972.6599101041,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,PMMOV_TS,TOTAL,12.980501794017176,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,PMMOV_VS,TOTAL,39.59053047175258,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-05,WWTP,N1,UF,6.528192983611689,NA
+2021-05-05,WWTP,N1_FLOW,UF,30881082.9586469,NA
+2021-05-05,WWTP,N1_FLOW_PC,UF,33.93525599851308,NA
+2021-05-05,WWTP,N1_PMMOV,UF,7.61025769145588e-4,NA
+2021-05-05,WWTP,N1_TS,UF,0.00629526806519932,NA
+2021-05-05,WWTP,N1_VS,UF,0.019200567598858017,NA
+2021-05-05,WWTP,N2,UF,6.694950796128955,NA
+2021-05-05,WWTP,N2_FLOW,UF,31669917.151397612,NA
+2021-05-05,WWTP,N2_FLOW_PC,UF,34.802106759777594,NA
+2021-05-05,WWTP,N2_PMMOV,UF,7.804656038518495e-4,NA
+2021-05-05,WWTP,N2_TS,UF,0.006456075984695237,NA
+2021-05-05,WWTP,N2_VS,UF,0.019691031753320567,NA
+2021-05-05,WWTP,PMMOV,UF,8578.149713564842,NA
+2021-05-05,WWTP,PMMOV_FLOW,UF,40578235600.77004,NA
+2021-05-05,WWTP,PMMOV_FLOW_PC,UF,44591.46769315389,NA
+2021-05-05,WWTP,PMMOV_TS,UF,8.272082655318082,NA
+2021-05-05,WWTP,PMMOV_VS,UF,25.22985209872027,NA
+2021-05-12,D,N1,CF,9.965835964088479,NA
+2021-05-12,D,N1_FLOW,CF,243406.8572002348,NA
+2021-05-12,D,N1_FLOW_PC,CF,30.42585715002935,NA
+2021-05-12,D,N1_PMMOV,CF,4.306964669993764e-4,NA
+2021-05-12,D,N1_TS,CF,0.00990639757861682,NA
+2021-05-12,D,N1_VS,CF,0.02147809475019079,NA
+2021-05-12,D,N2,CF,4.824201532392458,NA
+2021-05-12,D,N2_FLOW,CF,117826.91765463015,NA
+2021-05-12,D,N2_FLOW_PC,CF,14.728364706828769,NA
+2021-05-12,D,N2_PMMOV,CF,2.0848893796582285e-4,NA
+2021-05-12,D,N2_TS,CF,0.004795428958640635,NA
+2021-05-12,D,N2_VS,CF,0.010396986061190692,NA
+2021-05-12,D,PMMOV,CF,23138.884870636535,NA
+2021-05-12,D,PMMOV_FLOW,CF,565147095.1132442,NA
+2021-05-12,D,PMMOV_FLOW_PC,CF,70643.38688915552,NA
+2021-05-12,D,PMMOV_TS,CF,23.000879593078167,NA
+2021-05-12,D,PMMOV_VS,CF,49.86828635913071,NA
+2021-05-12,D,TS,MG_PER_L,1005.9999999999957,NA
+2021-05-12,D,VS,MG_PER_L,463.9999999999977,NA
+2021-05-12,D,FLOW,RATE_L_PER_S,24.4241284,NA
+2021-05-12,D,N1,TOTAL,46.977569898274034,TOTAL = UF + CF
+2021-05-12,D,N1_FLOW,TOTAL,1147386.19911542,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N1_FLOW_PC,TOTAL,143.4232748894275,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N1_PMMOV,TOTAL,7.922216684514727e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N1_TS,TOTAL,0.04669738558476564,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N1_VS,TOTAL,0.10124476271179798,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N2,TOTAL,23.73935291894083,TOTAL = UF + CF
+2021-05-12,D,N2_FLOW,TOTAL,579813.0038251256,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N2_FLOW_PC,TOTAL,72.4766254781407,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N2_PMMOV,TOTAL,4.003363694232428e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N2_TS,TOTAL,0.023597766321014842,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N2_VS,TOTAL,0.051162398532200316,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,PMMOV,TOTAL,59298.51677763296,TOTAL = UF + CF
+2021-05-12,D,PMMOV_FLOW,TOTAL,1448314587.7064617,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,PMMOV_FLOW_PC,TOTAL,181039.32346330772,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,PMMOV_TS,TOTAL,58.94484769148431,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,PMMOV_VS,TOTAL,127.7985275380027,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,D,N1,UF,37.01173393418556,NA
+2021-05-12,D,N1_FLOW,UF,903979.3419151853,NA
+2021-05-12,D,N1_FLOW_PC,UF,112.99741773939817,NA
+2021-05-12,D,N1_PMMOV,UF,0.0010235650083325173,NA
+2021-05-12,D,N1_TS,UF,0.03679098800614882,NA
+2021-05-12,D,N1_VS,UF,0.0797666679616072,NA
+2021-05-12,D,N2,UF,18.915151386548374,NA
+2021-05-12,D,N2_FLOW,UF,461986.08617049555,NA
+2021-05-12,D,N2_FLOW_PC,UF,57.74826077131194,NA
+2021-05-12,D,N2_PMMOV,UF,5.231013256771713e-4,NA
+2021-05-12,D,N2_TS,UF,0.01880233736237421,NA
+2021-05-12,D,N2_VS,UF,0.04076541247100963,NA
+2021-05-12,D,PMMOV,UF,36159.63190699643,NA
+2021-05-12,D,PMMOV_FLOW,UF,883167492.5932176,NA
+2021-05-12,D,PMMOV_FLOW_PC,UF,110395.9365741522,NA
+2021-05-12,D,PMMOV_TS,UF,35.943968098406145,NA
+2021-05-12,D,PMMOV_VS,UF,77.930241178872,NA
+2021-05-12,WWTP,N1,CF,22.604718141735418,NA
+2021-05-12,WWTP,N1_FLOW,CF,100115057.50867173,NA
+2021-05-12,WWTP,N1_FLOW_PC,CF,110.01654671282608,NA
+2021-05-12,WWTP,N1_PMMOV,CF,0.0011031883455113846,NA
+2021-05-12,WWTP,N1_TS,CF,0.023184326299215883,NA
+2021-05-12,WWTP,N1_VS,CF,0.06609566708109813,NA
+2021-05-12,WWTP,N2,CF,5.937766855555685,NA
+2021-05-12,WWTP,N2_FLOW,CF,26298043.90789914,NA
+2021-05-12,WWTP,N2_FLOW_PC,CF,28.898949349339716,NA
+2021-05-12,WWTP,N2_PMMOV,CF,2.8978353777031065e-4,NA
+2021-05-12,WWTP,N2_TS,CF,0.0060900172877494385,NA
+2021-05-12,WWTP,N2_VS,CF,0.01736189139051381,NA
+2021-05-12,WWTP,PMMOV,CF,20490.352561925378,NA
+2021-05-12,WWTP,PMMOV_FLOW,CF,90750648260.57716,NA
+2021-05-12,WWTP,PMMOV_FLOW_PC,CF,99725.98709953534,NA
+2021-05-12,WWTP,PMMOV_TS,CF,21.015746217359425,NA
+2021-05-12,WWTP,PMMOV_VS,CF,59.91331158457751,NA
+2021-05-12,WWTP,TS,MG_PER_L,974.999999999997,NA
+2021-05-12,WWTP,VS,MG_PER_L,341.99999999999784,NA
+2021-05-12,WWTP,FLOW,RATE_L_PER_S,4428.945182193086,NA
+2021-05-12,WWTP,N1,TOTAL,32.27652227402686,TOTAL = UF + CF
+2021-05-12,WWTP,N1_FLOW,TOTAL,142950947.82349908,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N1_FLOW_PC,TOTAL,157.0889536521968,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N1_PMMOV,TOTAL,6.414023863998395e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N1_TS,TOTAL,0.03310412540925842,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N1_VS,TOTAL,0.09437579612288616,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N2,TOTAL,12.348407867717592,TOTAL = UF + CF
+2021-05-12,WWTP,N2_FLOW,TOTAL,54690421.53348303,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N2_FLOW_PC,TOTAL,60.09936432250882,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N2_PMMOV,TOTAL,2.4538883735210023e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N2_TS,TOTAL,0.01266503371047962,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N2_VS,TOTAL,0.03610645575356044,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,PMMOV,TOTAL,50321.79947940857,TOTAL = UF + CF
+2021-05-12,WWTP,PMMOV_FLOW,TOTAL,222872491363.61313,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,PMMOV_FLOW_PC,TOTAL,244914.82567430014,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,PMMOV_TS,TOTAL,51.61210203016279,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,PMMOV_VS,TOTAL,147.13976455967511,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-12,WWTP,N1,UF,9.671804132291442,NA
+2021-05-12,WWTP,N1_FLOW,UF,42835890.31482736,NA
+2021-05-12,WWTP,N1_FLOW_PC,UF,47.07240693937072,NA
+2021-05-12,WWTP,N1_PMMOV,UF,3.242150526270024e-4,NA
+2021-05-12,WWTP,N1_TS,UF,0.009919799110042534,NA
+2021-05-12,WWTP,N1_VS,UF,0.02828012904178802,NA
+2021-05-12,WWTP,N2,UF,6.410641012161907,NA
+2021-05-12,WWTP,N2_FLOW,UF,28392377.625583887,NA
+2021-05-12,WWTP,N2_FLOW_PC,UF,31.200414973169107,NA
+2021-05-12,WWTP,N2_PMMOV,UF,2.1489540986377193e-4,NA
+2021-05-12,WWTP,N2_TS,UF,0.006575016422730181,NA
+2021-05-12,WWTP,N2_VS,UF,0.01874456436304663,NA
+2021-05-12,WWTP,PMMOV,UF,29831.446917483194,NA
+2021-05-12,WWTP,PMMOV_FLOW,UF,132121843103.03598,NA
+2021-05-12,WWTP,PMMOV_FLOW_PC,UF,145188.8385747648,NA
+2021-05-12,WWTP,PMMOV_TS,UF,30.596355812803367,NA
+2021-05-12,WWTP,PMMOV_VS,UF,87.22645297509762,NA
+2021-05-19,D,N1,CF,14.551214305997712,NA
+2021-05-19,D,N1_FLOW,CF,344230.2980488442,NA
+2021-05-19,D,N1_FLOW_PC,CF,43.028787256105524,NA
+2021-05-19,D,N1_PMMOV,CF,0.0015808822042203408,NA
+2021-05-19,D,N1_TS,CF,0.01761648221065103,NA
+2021-05-19,D,N1_VS,CF,0.04519010654036556,NA
+2021-05-19,D,N2,CF,10.02831440652064,NA
+2021-05-19,D,N2_FLOW,CF,237234.47297874332,NA
+2021-05-19,D,N2_FLOW_PC,CF,29.654309122342916,NA
+2021-05-19,D,N2_PMMOV,CF,0.0010895024600840648,NA
+2021-05-19,D,N2_TS,CF,0.01214081647278531,NA
+2021-05-19,D,N2_VS,CF,0.0311438335606231,NA
+2021-05-19,D,PMMOV,CF,9204.489915283775,NA
+2021-05-19,D,PMMOV_FLOW,CF,217745697.38964933,NA
+2021-05-19,D,PMMOV_FLOW_PC,CF,27218.212173706168,NA
+2021-05-19,D,PMMOV_TS,CF,11.14345026063414,NA
+2021-05-19,D,PMMOV_VS,CF,28.58537240771358,NA
+2021-05-19,D,TS,MG_PER_L,825.9999999999978,NA
+2021-05-19,D,VS,MG_PER_L,322.00000000000006,NA
+2021-05-19,D,FLOW,RATE_L_PER_S,23.65646542,NA
+2021-05-19,D,N1,TOTAL,52.50847987704176,TOTAL = UF + CF
+2021-05-19,D,N1_FLOW,TOTAL,1242165.0384680042,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N1_FLOW_PC,TOTAL,155.27062980850053,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N1_PMMOV,TOTAL,0.0016987266479242162,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N1_TS,TOTAL,0.06356958822886428,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N1_VS,TOTAL,0.16306981328273834,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N2,TOTAL,41.789889966700066,TOTAL = UF + CF
+2021-05-19,D,N2_FLOW,TOTAL,988601.0869028451,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N2_FLOW_PC,TOTAL,123.57513586285563,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N2_PMMOV,TOTAL,0.0013519644801466243,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N2_TS,TOTAL,0.05059308712675566,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N2_VS,TOTAL,0.12978226697732936,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,PMMOV,TOTAL,30910.494011031886,TOTAL = UF + CF
+2021-05-19,D,PMMOV_FLOW,TOTAL,731233032.6870929,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,PMMOV_FLOW_PC,TOTAL,91404.12908588661,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,PMMOV_TS,TOTAL,37.42190558236315,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,PMMOV_VS,TOTAL,95.99532301562695,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,D,N1,UF,37.95726557104405,NA
+2021-05-19,D,N1_FLOW,UF,897934.7404191601,NA
+2021-05-19,D,N1_FLOW_PC,UF,112.24184255239501,NA
+2021-05-19,D,N1_PMMOV,UF,0.0017486989039350324,NA
+2021-05-19,D,N1_TS,UF,0.04595310601821325,NA
+2021-05-19,D,N1_VS,UF,0.1178797067423728,NA
+2021-05-19,D,N2,UF,31.761575560179427,NA
+2021-05-19,D,N2_FLOW,UF,751366.6139241018,NA
+2021-05-19,D,N2_FLOW_PC,UF,93.92082674051272,NA
+2021-05-19,D,N2_PMMOV,UF,0.0014632622116938169,NA
+2021-05-19,D,N2_TS,UF,0.038452270653970354,NA
+2021-05-19,D,N2_VS,UF,0.09863843341670628,NA
+2021-05-19,D,PMMOV,UF,21706.00409574811,NA
+2021-05-19,D,PMMOV_FLOW,UF,513487335.29744357,NA
+2021-05-19,D,PMMOV_FLOW_PC,UF,64185.916912180444,NA
+2021-05-19,D,PMMOV_TS,UF,26.278455321729016,NA
+2021-05-19,D,PMMOV_VS,UF,67.40995060791337,NA
+2021-05-19,WWTP,N1,CF,21.77991369710884,NA
+2021-05-19,WWTP,N1_FLOW,CF,88057211.65936774,NA
+2021-05-19,WWTP,N1_FLOW_PC,CF,96.76616665864587,NA
+2021-05-19,WWTP,N1_PMMOV,CF,0.002346502132742649,NA
+2021-05-19,WWTP,N1_TS,CF,0.022734774214101056,NA
+2021-05-19,WWTP,N1_VS,CF,0.06294772744829191,NA
+2021-05-19,WWTP,N2,CF,19.14013400809192,NA
+2021-05-19,WWTP,N2_FLOW,CF,77384458.67960183,NA
+2021-05-19,WWTP,N2_FLOW_PC,CF,85.03786668088114,NA
+2021-05-19,WWTP,N2_PMMOV,CF,0.0020621002404123236,NA
+2021-05-19,WWTP,N2_TS,CF,0.01997926305646336,NA
+2021-05-19,WWTP,N2_VS,CF,0.055318306381768975,NA
+2021-05-19,WWTP,PMMOV,CF,9281.864010774174,NA
+2021-05-19,WWTP,PMMOV_FLOW,CF,37527011133.13897,NA
+2021-05-19,WWTP,PMMOV_FLOW_PC,CF,41238.47377268018,NA
+2021-05-19,WWTP,PMMOV_TS,CF,9.688793330661966,NA
+2021-05-19,WWTP,PMMOV_VS,CF,26.82619656293134,NA
+2021-05-19,WWTP,TS,MG_PER_L,958.0000000000011,NA
+2021-05-19,WWTP,VS,MG_PER_L,345.9999999999974,NA
+2021-05-19,WWTP,FLOW,RATE_L_PER_S,4043.0468588613753,NA
+2021-05-19,WWTP,N1,TOTAL,48.680375250874256,TOTAL = UF + CF
+2021-05-19,WWTP,N1_FLOW,TOTAL,196817038.2462402,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N1_FLOW_PC,TOTAL,216.28245961125296,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N1_PMMOV,TOTAL,0.0018128346339460275,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N1_TS,TOTAL,0.05081458794454509,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N1_VS,TOTAL,0.14069472615859718,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N2,TOTAL,33.420431723930875,TOTAL = UF + CF
+2021-05-19,WWTP,N2_FLOW,TOTAL,135120371.50322977,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N2_FLOW_PC,TOTAL,148.48392472882392,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N2_PMMOV,TOTAL,0.0012445614027899747,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N2_TS,TOTAL,0.034885628104311936,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N2_VS,TOTAL,0.09659084313274892,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,PMMOV,TOTAL,26853.180284244056,TOTAL = UF + CF
+2021-05-19,WWTP,PMMOV_FLOW,TOTAL,108568666198.65115,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,PMMOV_FLOW_PC,TOTAL,119306.22659192435,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,PMMOV_TS,TOTAL,28.030459586893553,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,PMMOV_VS,TOTAL,77.61034764232444,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-19,WWTP,N1,UF,26.900461553765417,NA
+2021-05-19,WWTP,N1_FLOW,UF,108759826.58687246,NA
+2021-05-19,WWTP,N1_FLOW_PC,UF,119.5162929526071,NA
+2021-05-19,WWTP,N1_PMMOV,UF,0.0015309303603157597,NA
+2021-05-19,WWTP,N1_TS,UF,0.028079813730444034,NA
+2021-05-19,WWTP,N1_VS,UF,0.07774699871030526,NA
+2021-05-19,WWTP,N2,UF,14.280297715838952,NA
+2021-05-19,WWTP,N2_FLOW,UF,57735912.82362794,NA
+2021-05-19,WWTP,N2_FLOW_PC,UF,63.44605804794279,NA
+2021-05-19,WWTP,N2_PMMOV,UF,8.127050639569964e-4,NA
+2021-05-19,WWTP,N2_TS,UF,0.014906365047848575,NA
+2021-05-19,WWTP,N2_VS,UF,0.041272536750979943,NA
+2021-05-19,WWTP,PMMOV,UF,17571.31627346988,NA
+2021-05-19,WWTP,PMMOV_FLOW,UF,71041655065.51216,NA
+2021-05-19,WWTP,PMMOV_FLOW_PC,UF,78067.75281924414,NA
+2021-05-19,WWTP,PMMOV_TS,UF,18.341666256231587,NA
+2021-05-19,WWTP,PMMOV_VS,UF,50.784151079393105,NA
+2021-05-27,D,N1,CF,2.682921004827599,NA
+2021-05-27,D,N1_FLOW,CF,63387.5509996547,NA
+2021-05-27,D,N1_FLOW_PC,CF,7.923443874956837,NA
+2021-05-27,D,N1_PMMOV,CF,2.0843190948585232e-4,NA
+2021-05-27,D,N1_TS,CF,0.0029744135308509877,NA
+2021-05-27,D,N1_VS,CF,0.007135428204328665,NA
+2021-05-27,D,N2,CF,1.2246657992005054,NA
+2021-05-27,D,N2_FLOW,CF,28934.346432366623,NA
+2021-05-27,D,N2_FLOW_PC,CF,3.616793304045828,NA
+2021-05-27,D,N2_PMMOV,CF,9.514235810524037e-5,NA
+2021-05-27,D,N2_TS,CF,0.0013577226155216207,NA
+2021-05-27,D,N2_VS,CF,0.0032570898914906802,NA
+2021-05-27,D,PMMOV,CF,12871.930269437496,NA
+2021-05-27,D,PMMOV_FLOW,CF,304116347.42499554,NA
+2021-05-27,D,PMMOV_FLOW_PC,CF,38014.543428124445,NA
+2021-05-27,D,PMMOV_TS,CF,14.270432671216694,NA
+2021-05-27,D,PMMOV_VS,CF,34.233857099567544,NA
+2021-05-27,D,TS,MG_PER_L,902.0000000000027,NA
+2021-05-27,D,VS,MG_PER_L,376.00000000000296,NA
+2021-05-27,D,FLOW,RATE_L_PER_S,23.6263203,NA
+2021-05-27,D,N1,TOTAL,11.86280612858922,TOTAL = UF + CF
+2021-05-27,D,N1_FLOW,TOTAL,280274.4572508519,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N1_FLOW_PC,TOTAL,35.03430715635649,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N1_PMMOV,TOTAL,4.5936521872684435e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N1_TS,TOTAL,0.013151669765619938,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N1_VS,TOTAL,0.03155001629943917,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N2,TOTAL,1.2781261099078816,TOTAL = UF + CF
+2021-05-27,D,N2_FLOW,TOTAL,30197.416856476615,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N2_FLOW_PC,TOTAL,3.774677107059577,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N2_PMMOV,TOTAL,4.949306881306578e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N2_TS,TOTAL,0.0014169912526694874,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N2_VS,TOTAL,0.0033992715689039137,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,PMMOV,TOTAL,25824.345520689683,TOTAL = UF + CF
+2021-05-27,D,PMMOV_FLOW,TOTAL,610134258.8096848,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,PMMOV_FLOW_PC,TOTAL,76266.7823512106,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,PMMOV_TS,TOTAL,28.630094812294463,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,PMMOV_VS,TOTAL,68.68177000183373,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,D,N1,UF,9.17988512376162,NA
+2021-05-27,D,N1_FLOW,UF,216886.9062511972,NA
+2021-05-27,D,N1_FLOW_PC,UF,27.11086328139965,NA
+2021-05-27,D,N1_PMMOV,UF,7.087392540842255e-4,NA
+2021-05-27,D,N1_TS,UF,0.01017725623476895,NA
+2021-05-27,D,N1_VS,UF,0.0244145880951105,NA
+2021-05-27,D,N2,UF,0.053460310707376044,NA
+2021-05-27,D,N2_FLOW,UF,1263.0704241099859,NA
+2021-05-27,D,N2_FLOW_PC,UF,0.15788380301374824,NA
+2021-05-27,D,N2_PMMOV,UF,4.127439529257504e-6,NA
+2021-05-27,D,N2_TS,UF,5.926863714786683e-5,NA
+2021-05-27,D,N2_VS,UF,1.4218167741323305e-4,NA
+2021-05-27,D,PMMOV,UF,12952.415251252187,NA
+2021-05-27,D,PMMOV_FLOW,UF,306017911.38468915,NA
+2021-05-27,D,PMMOV_FLOW_PC,UF,38252.238923086144,NA
+2021-05-27,D,PMMOV_TS,UF,14.359662141077768,NA
+2021-05-27,D,PMMOV_VS,UF,34.44791290226618,NA
+2021-05-27,WWTP,N1,CF,1.575013902586335,NA
+2021-05-27,WWTP,N1_FLOW,CF,6030083.479382593,NA
+2021-05-27,WWTP,N1_FLOW_PC,CF,6.626465361958894,NA
+2021-05-27,WWTP,N1_PMMOV,CF,1.530725303681074e-4,NA
+2021-05-27,WWTP,N1_TS,CF,0.0020063871370526553,NA
+2021-05-27,WWTP,N1_VS,CF,0.007258128583347149,NA
+2021-05-27,WWTP,N2,CF,1.4776389634421976,NA
+2021-05-27,WWTP,N2_FLOW,CF,5657274.699171359,NA
+2021-05-27,WWTP,N2_FLOW_PC,CF,6.2167853837047895,NA
+2021-05-27,WWTP,N2_PMMOV,CF,1.4360884988582254e-4,NA
+2021-05-27,WWTP,N2_TS,CF,0.0018823426285887862,NA
+2021-05-27,WWTP,N2_VS,CF,0.006809396144894904,NA
+2021-05-27,WWTP,PMMOV,CF,10289.330808073508,NA
+2021-05-27,WWTP,PMMOV_FLOW,CF,39393635584.9185,NA
+2021-05-27,WWTP,PMMOV_FLOW_PC,CF,43289.70943397638,NA
+2021-05-27,WWTP,PMMOV_TS,CF,13.107427780985356,NA
+2021-05-27,WWTP,PMMOV_VS,CF,47.41627100494693,NA
+2021-05-27,WWTP,TS,MG_PER_L,785.0000000000002,NA
+2021-05-27,WWTP,VS,MG_PER_L,217.0000000000005,NA
+2021-05-27,WWTP,FLOW,RATE_L_PER_S,3828.5906362353853,NA
+2021-05-27,WWTP,N1,TOTAL,4.087228966003117,TOTAL = UF + CF
+2021-05-27,WWTP,N1_FLOW,TOTAL,15648326.54738957,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N1_FLOW_PC,TOTAL,17.19596323888964,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N1_PMMOV,TOTAL,1.565552170330622e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N1_TS,TOTAL,0.005206661103188683,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N1_VS,TOTAL,0.018835156525359942,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N2,TOTAL,2.7152176180215073,TOTAL = UF + CF
+2021-05-27,WWTP,N2_FLOW,TOTAL,10395456.74769849,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N2_FLOW_PC,TOTAL,11.423578843624714,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N2_PMMOV,TOTAL,1.0400236615494448e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N2_TS,TOTAL,0.003458875946524212,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N2_VS,TOTAL,0.012512523585352538,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,PMMOV,TOTAL,26107.267732508415,TOTAL = UF + CF
+2021-05-27,WWTP,PMMOV_FLOW,TOTAL,99954040778.37195,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,PMMOV_FLOW_PC,TOTAL,109839.60525095818,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,PMMOV_TS,TOTAL,33.2576659012846,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,PMMOV_VS,TOTAL,120.30998955072974,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-05-27,WWTP,N1,UF,2.5122150634167824,NA
+2021-05-27,WWTP,N1_FLOW,UF,9618243.068006977,NA
+2021-05-27,WWTP,N1_FLOW_PC,UF,10.569497876930745,NA
+2021-05-27,WWTP,N1_PMMOV,UF,1.588206524920462e-4,NA
+2021-05-27,WWTP,N1_TS,UF,0.0032002739661360275,NA
+2021-05-27,WWTP,N1_VS,UF,0.011577027942012794,NA
+2021-05-27,WWTP,N2,UF,1.2375786545793097,NA
+2021-05-27,WWTP,N2_FLOW,UF,4738182.048527132,NA
+2021-05-27,WWTP,N2_FLOW_PC,UF,5.2067934599199255,NA
+2021-05-27,WWTP,N2_PMMOV,UF,7.823894231538808e-5,NA
+2021-05-27,WWTP,N2_TS,UF,0.001576533317935426,NA
+2021-05-27,WWTP,N2_VS,UF,0.005703127440457635,NA
+2021-05-27,WWTP,PMMOV,UF,15817.936924434905,NA
+2021-05-27,WWTP,PMMOV_FLOW,UF,60560405193.45343,NA
+2021-05-27,WWTP,PMMOV_FLOW_PC,UF,66549.89581698179,NA
+2021-05-27,WWTP,PMMOV_TS,UF,20.150238120299235,NA
+2021-05-27,WWTP,PMMOV_VS,UF,72.8937185457828,NA
+2021-06-02,D,N1,CF,0.5115718698519863,NA
+2021-06-02,D,N1_FLOW,CF,28103.588244545048,NA
+2021-06-02,D,N1_FLOW_PC,CF,3.512948530568131,NA
+2021-06-02,D,N1_PMMOV,CF,9.258623775190171e-5,NA
+2021-06-02,D,N1_TS,CF,5.060058059861379e-4,NA
+2021-06-02,D,N1_VS,CF,8.866063602287444e-4,NA
+2021-06-02,D,N2,CF,0,NA
+2021-06-02,D,PMMOV,CF,5525.355412138222,NA
+2021-06-02,D,PMMOV_FLOW,CF,303539585.6547567,NA
+2021-06-02,D,PMMOV_FLOW_PC,CF,37942.448206844594,NA
+2021-06-02,D,PMMOV_TS,CF,5.465237796378053,NA
+2021-06-02,D,PMMOV_VS,CF,9.576005913584426,NA
+2021-06-02,D,TS,MG_PER_L,1011.0000000000019,NA
+2021-06-02,D,VS,MG_PER_L,577.0000000000009,NA
+2021-06-02,D,FLOW,RATE_L_PER_S,54.93575761442139,NA
+2021-06-02,D,N1,TOTAL,0.9643126636289131,TOTAL = UF + CF
+2021-06-02,D,N1_FLOW,TOTAL,52975.24675363503,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N1_FLOW_PC,TOTAL,6.621905844204379,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N1_PMMOV,TOTAL,2.4537017021062913e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N1_TS,TOTAL,9.53820636626025e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N1_VS,TOTAL,0.0016712524499634517,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N2,TOTAL,1.0801534005281281,TOTAL = UF + CF
+2021-06-02,D,N2_FLOW,TOTAL,59339.04539780627,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N2_FLOW_PC,TOTAL,7.417380674725784,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N2_PMMOV,TOTAL,2.7484594337254125e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N2_TS,TOTAL,0.0010684009896420633,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N2_VS,TOTAL,0.0018720162920764756,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,PMMOV,TOTAL,39300.3217465731,TOTAL = UF + CF
+2021-06-02,D,PMMOV_FLOW,TOTAL,2158992949.638514,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,PMMOV_FLOW_PC,TOTAL,269874.11870481423,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,PMMOV_TS,TOTAL,38.87272180669933,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,PMMOV_VS,TOTAL,68.11147616390474,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,D,N1,UF,0.4527407937769268,NA
+2021-06-02,D,N1_FLOW,UF,24871.65850908999,NA
+2021-06-02,D,N1_FLOW_PC,UF,3.1089573136362487,NA
+2021-06-02,D,N1_PMMOV,UF,1.3404626056291285e-5,NA
+2021-06-02,D,N1_TS,UF,4.4781483063988716e-4,NA
+2021-06-02,D,N1_VS,UF,7.846460897347072e-4,NA
+2021-06-02,D,N2,UF,1.0801534005281281,NA
+2021-06-02,D,N2_FLOW,UF,59339.04539780627,NA
+2021-06-02,D,N2_FLOW_PC,UF,7.417380674725784,NA
+2021-06-02,D,N2_PMMOV,UF,3.1980887555374704e-5,NA
+2021-06-02,D,N2_TS,UF,0.0010684009896420633,NA
+2021-06-02,D,N2_VS,UF,0.0018720162920764756,NA
+2021-06-02,D,PMMOV,UF,33774.96633443488,NA
+2021-06-02,D,PMMOV_FLOW,UF,1855453363.983757,NA
+2021-06-02,D,PMMOV_FLOW_PC,UF,231931.67049796964,NA
+2021-06-02,D,PMMOV_TS,UF,33.407484010321284,NA
+2021-06-02,D,PMMOV_VS,UF,58.53547025032032,NA
+2021-06-02,WWTP,N1,CF,4.187105960101366,NA
+2021-06-02,WWTP,N1_FLOW,CF,14325944.310000116,NA
+2021-06-02,WWTP,N1_FLOW_PC,CF,15.742795945055073,NA
+2021-06-02,WWTP,N1_PMMOV,CF,2.9493043667307714e-4,NA
+2021-06-02,WWTP,N1_TS,CF,0.004250868995026747,NA
+2021-06-02,WWTP,N1_VS,CF,0.009243059514572528,NA
+2021-06-02,WWTP,N2,CF,12.769637984759715,NA
+2021-06-02,WWTP,N2_FLOW,CF,43690588.28979361,NA
+2021-06-02,WWTP,N2_FLOW_PC,CF,48.01163548328968,NA
+2021-06-02,WWTP,N2_PMMOV,CF,8.994649151203043e-4,NA
+2021-06-02,WWTP,N2_TS,CF,0.012964099476913354,NA
+2021-06-02,WWTP,N2_VS,CF,0.028189046323972806,NA
+2021-06-02,WWTP,PMMOV,CF,14196.927273201938,NA
+2021-06-02,WWTP,PMMOV_FLOW,CF,48573977211.71809,NA
+2021-06-02,WWTP,PMMOV_FLOW_PC,CF,53377.99693595394,NA
+2021-06-02,WWTP,PMMOV_TS,CF,14.413124135230325,NA
+2021-06-02,WWTP,PMMOV_VS,CF,31.33979530508146,NA
+2021-06-02,WWTP,TS,MG_PER_L,985.0000000000048,NA
+2021-06-02,WWTP,VS,MG_PER_L,453.0000000000012,NA
+2021-06-02,WWTP,FLOW,RATE_L_PER_S,3421.4429838917417,NA
+2021-06-02,WWTP,N1,TOTAL,5.548285801578324,TOTAL = UF + CF
+2021-06-02,WWTP,N1_FLOW,TOTAL,18983143.528436325,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N1_FLOW_PC,TOTAL,20.86059728399596,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N1_PMMOV,TOTAL,1.6790206380778964e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N1_TS,TOTAL,0.005632777463531266,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N1_VS,TOTAL,0.012247871526662934,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N2,TOTAL,16.355253668246394,TOTAL = UF + CF
+2021-06-02,WWTP,N2_FLOW,TOTAL,55958567.9129913,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N2_FLOW_PC,TOTAL,61.49293177251791,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N2_PMMOV,TOTAL,4.94942211559706e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N2_TS,TOTAL,0.016604318444920118,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N2_VS,TOTAL,0.03610431273343565,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,PMMOV,TOTAL,33044.7742913385,TOTAL = UF + CF
+2021-06-02,WWTP,PMMOV_FLOW,TOTAL,113060811153.3863,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,PMMOV_FLOW_PC,TOTAL,124242.64961910582,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,PMMOV_TS,TOTAL,33.547994204404404,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,PMMOV_VS,TOTAL,72.94652161443358,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-02,WWTP,N1,UF,1.361179841476957,NA
+2021-06-02,WWTP,N1_FLOW,UF,4657199.218436207,NA
+2021-06-02,WWTP,N1_FLOW_PC,UF,5.117801338940886,NA
+2021-06-02,WWTP,N1_PMMOV,UF,7.22193808219658e-5,NA
+2021-06-02,WWTP,N1_TS,UF,0.001381908468504518,NA
+2021-06-02,WWTP,N1_VS,UF,0.0030048120120904046,NA
+2021-06-02,WWTP,N2,UF,3.5856156834866786,NA
+2021-06-02,WWTP,N2_FLOW,UF,12267979.62319769,NA
+2021-06-02,WWTP,N2_FLOW_PC,UF,13.481296289228231,NA
+2021-06-02,WWTP,N2_PMMOV,UF,1.9024006720960636e-4,NA
+2021-06-02,WWTP,N2_TS,UF,0.0036402189680067626,NA
+2021-06-02,WWTP,N2_VS,UF,0.007915266409462846,NA
+2021-06-02,WWTP,PMMOV,UF,18847.847018136563,NA
+2021-06-02,WWTP,PMMOV_FLOW,UF,64486833941.66823,NA
+2021-06-02,WWTP,PMMOV_FLOW_PC,UF,70864.6526831519,NA
+2021-06-02,WWTP,PMMOV_TS,UF,19.13487006917408,NA
+2021-06-02,WWTP,PMMOV_VS,UF,41.606726309352126,NA
+2021-06-09,D,N1,CF,7.0437228394926255,NA
+2021-06-09,D,N1_FLOW,CF,169156.9112896859,NA
+2021-06-09,D,N1_FLOW_PC,CF,21.144613911210737,NA
+2021-06-09,D,N1_PMMOV,CF,2.7824984092995105e-4,NA
+2021-06-09,D,N1_TS,CF,0.0016327591190293522,NA
+2021-06-09,D,N1_VS,CF,0.0019297870793130469,NA
+2021-06-09,D,N2,CF,0,NA
+2021-06-09,D,PMMOV,CF,25314.382268652837,NA
+2021-06-09,D,PMMOV_FLOW,CF,607931744.8101286,NA
+2021-06-09,D,PMMOV_FLOW_PC,CF,75991.46810126607,NA
+2021-06-09,D,PMMOV_TS,CF,5.867960655691432,NA
+2021-06-09,D,PMMOV_VS,CF,6.935447196891184,NA
+2021-06-09,D,TS,MG_PER_L,4314,NA
+2021-06-09,D,VS,MG_PER_L,3650.0000000000023,NA
+2021-06-09,D,FLOW,RATE_L_PER_S,24.01527078,NA
+2021-06-09,D,N1,TOTAL,14.309363120347388,TOTAL = UF + CF
+2021-06-09,D,N1_FLOW,TOTAL,343643.2300244883,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N1_FLOW_PC,TOTAL,42.955403753061034,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N1_PMMOV,TOTAL,3.369584729671844e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N1_TS,TOTAL,0.0033169594622965664,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N1_VS,TOTAL,0.003920373457629419,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N2,TOTAL,0.13938173037564672,TOTAL = UF + CF
+2021-06-09,D,N2_FLOW,TOTAL,3347.2899967561075,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N2_FLOW_PC,TOTAL,0.4184112495945134,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N2_PMMOV,TOTAL,3.2821764764721094e-6,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N2_TS,TOTAL,3.23091632766914e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N2_VS,TOTAL,3.818677544538264e-5,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,PMMOV,TOTAL,42466.25109124632,TOTAL = UF + CF
+2021-06-09,D,PMMOV_FLOW,TOTAL,1019838518.9677509,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,PMMOV_FLOW_PC,TOTAL,127479.81487096887,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,PMMOV_TS,TOTAL,9.84382269152673,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,PMMOV_VS,TOTAL,11.634589340067476,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,D,N1,UF,7.265640280854762,NA
+2021-06-09,D,N1_FLOW,UF,174486.3187348024,NA
+2021-06-09,D,N1_FLOW_PC,UF,21.810789841850298,NA
+2021-06-09,D,N1_PMMOV,UF,4.2360633444700897e-4,NA
+2021-06-09,D,N1_TS,UF,0.0016842003432672142,NA
+2021-06-09,D,N1_VS,UF,0.001990586378316372,NA
+2021-06-09,D,N2,UF,0.13938173037564672,NA
+2021-06-09,D,N2_FLOW,UF,3347.2899967561075,NA
+2021-06-09,D,N2_FLOW_PC,UF,0.4184112495945134,NA
+2021-06-09,D,N2_PMMOV,UF,8.126329079198915e-6,NA
+2021-06-09,D,N2_TS,UF,3.23091632766914e-5,NA
+2021-06-09,D,N2_VS,UF,3.818677544538264e-5,NA
+2021-06-09,D,PMMOV,UF,17151.868822593486,NA
+2021-06-09,D,PMMOV_FLOW,UF,411906774.15762234,NA
+2021-06-09,D,PMMOV_FLOW_PC,UF,51488.346769702795,NA
+2021-06-09,D,PMMOV_TS,UF,3.9758620358353003,NA
+2021-06-09,D,PMMOV_VS,UF,4.699142143176294,NA
+2021-06-09,WWTP,N1,CF,2.6011045361544847,NA
+2021-06-09,WWTP,N1_FLOW,CF,9387482.22085614,NA
+2021-06-09,WWTP,N1_FLOW_PC,CF,10.315914528413341,NA
+2021-06-09,WWTP,N1_PMMOV,CF,1.3101812185721635e-4,NA
+2021-06-09,WWTP,N1_TS,CF,0.0030965530192315262,NA
+2021-06-09,WWTP,N1_VS,CF,0.007834652217332809,NA
+2021-06-09,WWTP,N2,CF,13.81362640659867,NA
+2021-06-09,WWTP,N2_FLOW,CF,49853887.26022053,NA
+2021-06-09,WWTP,N2_FLOW_PC,CF,54.78449149474783,NA
+2021-06-09,WWTP,N2_PMMOV,CF,6.957949450603383e-4,NA
+2021-06-09,WWTP,N2_TS,CF,0.01644479334118888,NA
+2021-06-09,WWTP,N2_VS,CF,0.04160730845361058,NA
+2021-06-09,WWTP,PMMOV,CF,19853.013455567394,NA
+2021-06-09,WWTP,PMMOV_FLOW,CF,71650257901.62543,NA
+2021-06-09,WWTP,PMMOV_FLOW_PC,CF,78736.54714464332,NA
+2021-06-09,WWTP,PMMOV_TS,CF,23.6345398280564,NA
+2021-06-09,WWTP,PMMOV_VS,CF,59.79823329990197,NA
+2021-06-09,WWTP,TS,MG_PER_L,840.0000000000008,NA
+2021-06-09,WWTP,VS,MG_PER_L,331.999999999999,NA
+2021-06-09,WWTP,FLOW,RATE_L_PER_S,3609.0368881270515,NA
+2021-06-09,WWTP,N1,TOTAL,4.55422696130063,TOTAL = UF + CF
+2021-06-09,WWTP,N1_FLOW,TOTAL,16436373.100236742,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N1_FLOW_PC,TOTAL,18.061948461798618,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N1_PMMOV,TOTAL,1.1256764667286696e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N1_TS,TOTAL,0.005421698763453126,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N1_VS,TOTAL,0.013717551088254952,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N2,TOTAL,14.458816357018067,TOTAL = UF + CF
+2021-06-09,WWTP,N2_FLOW,TOTAL,52182401.591133,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N2_FLOW_PC,TOTAL,57.3432984517945,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N2_PMMOV,TOTAL,3.573811636563362e-4,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N2_TS,TOTAL,0.017212876615497683,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N2_VS,TOTAL,0.043550651677765395,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,PMMOV,TOTAL,40457.69007266961,TOTAL = UF + CF
+2021-06-09,WWTP,PMMOV_FLOW,TOTAL,146013295880.67624,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,PMMOV_FLOW_PC,TOTAL,160454.17129744642,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,PMMOV_TS,TOTAL,48.163916753178064,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,PMMOV_VS,TOTAL,121.86051226707752,"Computed from TOTAL biomarkers; TS/VS/FLOW joined by (date, site). FLOW-derived values are flow-weighted loads (gc/s)."
+2021-06-09,WWTP,N1,UF,1.953122425146145,NA
+2021-06-09,WWTP,N1_FLOW,UF,7048890.879380603,NA
+2021-06-09,WWTP,N1_FLOW_PC,UF,7.746033933385278,NA
+2021-06-09,WWTP,N1_PMMOV,UF,9.479024890519376e-5,NA
+2021-06-09,WWTP,N1_TS,UF,0.002325145744221599,NA
+2021-06-09,WWTP,N1_VS,UF,0.005882898870922142,NA
+2021-06-09,WWTP,N2,UF,0.6451899504193965,NA
+2021-06-09,WWTP,N2_FLOW,UF,2328514.3309124657,NA
+2021-06-09,WWTP,N2_FLOW_PC,UF,2.5588069570466656,NA
+2021-06-09,WWTP,N2_PMMOV,UF,3.13127918680305e-5,NA
+2021-06-09,WWTP,N2_TS,UF,7.680832743088046e-4,NA
+2021-06-09,WWTP,N2_VS,UF,0.0019433432241548149,NA
+2021-06-09,WWTP,PMMOV,UF,20604.676617102217,NA
+2021-06-09,WWTP,PMMOV_FLOW,UF,74363037979.05081,NA
+2021-06-09,WWTP,PMMOV_FLOW_PC,UF,81717.6241528031,NA
+2021-06-09,WWTP,PMMOV_TS,UF,24.529376925121664,NA
+2021-06-09,WWTP,PMMOV_VS,UF,62.062278967175544,NA

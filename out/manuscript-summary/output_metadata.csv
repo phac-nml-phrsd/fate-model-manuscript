@@ -1,0 +1,12 @@
+file,simulation_count,seed,source_script,manuscript_mapping,run_scope
+flow_path_loss_distributions.csv,500,123,calc-loss-stochastic.R; scripts/prepare-public-figure-data.R,Revised loss-distribution and combined fate-process/loss figures,Full manuscript run
+fsa_mean_loss_by_sample_fraction.csv,500,123,simu-analysis.R; scripts/prepare-public-figure-data.R,"Revised FSA loss maps, including fraction-specific map",Full manuscript run
+population_equivalent_loss.csv,500,123,simu-analysis.R; scripts/prepare-public-figure-data.R,Population-equivalent loss map and summary,Full manuscript run
+effective_surveillance_coverage.csv,500,123,simu-analysis.R; scripts/prepare-public-figure-data.R,Effective surveillance coverage panels,Full manuscript run
+stochastic_effective_surveillance_coverage.csv,500,123,scripts/prepare-public-figure-data.R,Revised stochastic effective-surveillance-coverage boxplots,Full manuscript run
+minimum_detectable_prevalence.csv,500,123,simu-analysis.R; scripts/prepare-public-figure-data.R,Minimum detectable prevalence maps and summaries,Full manuscript run
+stochastic_minimum_detectable_prevalence.csv,500,123,scripts/prepare-public-figure-data.R,Revised stochastic minimum-detection-rate boxplots,Full manuscript run
+daily_versus_hourly_comparison.csv,500,123,scripts/summarise-hourly-sensitivity.R,Impact of diurnal hydraulic variability / hydraulic aggregation sensitivity,Full manuscript run; summarized raw restricted hourly hydraulics
+threshold_classification_diagnostic.csv,1,123,scripts/calc-temporal-threshold-diagnostic.R,Supplementary threshold-classification diagnostic,Full manuscript midpoint-threshold diagnostic; one deterministic threshold realization
+particle_association_sensitivity.csv,500,123,calc-loss-stochastic.R; scripts/prepare-public-particle-figure-data.R,Particle-class pipe/path sensitivity figures,Full manuscript run
+rna_partition_sensitivity.csv,500,123,calc-loss-stochastic.R; scripts/prepare-public-figure-data.R,Particle-association/RNA-distribution sensitivity figures,Full manuscript run

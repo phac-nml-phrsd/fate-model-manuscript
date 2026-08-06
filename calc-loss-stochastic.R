@@ -25,27 +25,36 @@ source('utils/utils_simulation_stochastic.R')
 
 start <- Sys.time()
 #========== SET SEED AND NUMBER OF SIMULATION ============================
-num.sim = 2#500
-seed = 123
+num.sim <- as.integer(Sys.getenv("NUM_SIM", unset = "1"))
+seed <- as.integer(Sys.getenv("SEED", unset = "123"))
+input_file <- Sys.getenv(
+  "FLOW_INPUT",
+  unset = file.path("data", "demo_dwf_path_states (weekday).csv")
+)
+out_dir <- Sys.getenv("OUTPUT_DIR", unset = file.path("out", "demo-simulation"))
+if (is.na(num.sim) || num.sim < 1) stop("NUM_SIM must be a positive integer.")
+if (is.na(seed)) stop("SEED must be an integer.")
+if (!file.exists(input_file)) stop("Hydraulic input not found: ", input_file)
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
 
 # Detect number of available cores, limit to avoid overloading
-num_cores <- parallel::detectCores() - 2
-plan(multisession, workers = num_cores)  
+num_cores <- max(1L, min(num.sim, parallel::detectCores() - 2L))
+if (num_cores == 1L) future::plan(future::sequential) else future::plan(future::multisession, workers = num_cores)
 
 #========== LOAD INFOWORKS FLOW DATA FILE ================================
 message('Loading data...')
-iw.flow    = read.csv('data/demo_dwf_path_states (weekday).csv')
+iw.flow <- read.csv(input_file)
 message('Data loaded.\n')
 
 # clean
 # remove pipe HRT < 0  and flow path HRT > 30 hours
 df.flow = clean(data = iw.flow)
-saveRDS(df.flow, file = "out/df.flow.rds")
+saveRDS(df.flow, file = file.path(out_dir, "df.flow.rds"))
 message('Data cleaned.')
 
 # extract geometry from raw flow data 
 df.polygons = dplyr::select(df.flow, c(node_id,geometry))
-saveRDS(df.polygons, file = "out/df.polygons.rds")
+saveRDS(df.polygons, file = file.path(out_dir, "df.polygons.rds"))
 message('Polygons saved.')
 
 #======== LOAD PARAMETERS ===================================
@@ -68,7 +77,7 @@ df.long.ids = get_path_ids_longformat(df= df.flow,n.cores = 1,
                                         num.class = solid.class)%>%
   dplyr::select(- "node_id")%>%
   rename(node_id = node_id_entry)
-saveRDS(df.long.ids, file = "out/df.long.ids.rds")
+saveRDS(df.long.ids, file = file.path(out_dir, "df.long.ids.rds"))
 message('Long-format path ids created.')
 
 
@@ -82,7 +91,7 @@ system.time({
     total.parms <- cbind(parms.s, parm.const)
     
     #result <- simulate_calc_loss(df.flow, total.parms, df.long.ids, n.cores = 1, sim = x)
-    result <- simulate_calc_loss(readRDS("out/df.flow.rds"), total.parms, readRDS("out/df.long.ids.rds"), n.cores = 1, sim = parms.s$sim[1])
+    result <- simulate_calc_loss(readRDS(file.path(out_dir, "df.flow.rds")), total.parms, readRDS(file.path(out_dir, "df.long.ids.rds")), n.cores = 1, sim = parms.s$sim[1])
     
     message(paste0('Simulation completed for sim = ', x))
     
@@ -102,9 +111,17 @@ system.time({
 
 
 #=========== Save results as R object 
-saveRDS(stoch.params,      file = "out/stoch.params.rds")
-saveRDS(sim_df_loss_solid, file = "out/sim_df_loss_solid.rds")
-saveRDS(sim_df_loss_total, file = "out/sim_df_loss_total.rds")
+saveRDS(stoch.params,      file = file.path(out_dir, "stoch.params.rds"))
+saveRDS(sim_df_loss_solid, file = file.path(out_dir, "sim_df_loss_solid.rds"))
+saveRDS(sim_df_loss_total, file = file.path(out_dir, "sim_df_loss_total.rds"))
+
+writeLines(c(
+  "Public demonstration simulation",
+  paste0("Input: ", input_file),
+  paste0("NUM_SIM: ", num.sim),
+  paste0("SEED: ", seed),
+  "Scope: synthetic hydraulic network; not the full manuscript run"
+), file.path(out_dir, "README.txt"))
 
 
 end <- Sys.time()

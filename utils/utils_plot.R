@@ -138,7 +138,7 @@ plot_settling_path <- function(df, loss.type, df_labels,
          #subtitle = paste('Impact of settling velocity and critical shear stress on particle classes \n
          #Distribution type:'),#, loss.type),
          x = 'Proportion of Solid Particle Lost Per Flow Path',
-         y = 'Frequancy')
+         y = 'Frequency')
   g
   
   # Save the plot for manuscript 
